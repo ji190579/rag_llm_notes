@@ -1,0 +1,1051 @@
+{
+  "input": "what si AI",
+  "contextualized_query": "what si AI",
+  "similarity_score": 0.0,
+  "used_contextualized": false,
+  "chat_history": [],
+  "top_k_docs": [
+    "The AI Engineer's Guide: Your Path to Become THE AI ENGINEER!..................................... 3 What You'll Find in This Ebook................................................................................................ 4  Introduction.........................................................",
+    "2.1 Math Requirements for AI There is a debate about whether extensive math knowledge is necessary for AI. Some believe you cannot learn AI without knowing a lot of math, while others say you only need the required math. The speaker believes that you don't need to be very strong in math to find a jo",
+    "1.4 Importance of a Structured Learning Path The speaker highlights that AI is a field where many people are self-taught. The program offers a structured roadmap to help individuals learn, consolidating resources that the speaker used and making them accessible. This structured approach is crucial b",
+    "5. Beyond the Basics: Mastering AI Specializations Once you\u2019ve built a strong foundation, it's time to specialize: Natural Language Processing (NLP) \u25cf\u200b Understanding how AI processes human language.  \u25cf\u200b Working with  Hugging Face, spaCy, and Transformer models .  \u25cf\u200b Real-world application:  Chatbots",
+    "..............................................8  2. Roadmap to AI Success.................................................................................................... 10  4. What Sets Successful AI Engineers Apart?.......................................................................14  5. B",
+    "Chapter 1: Introduction to the Program and AI Engineering",
+    ". This program intends to clarify the difference between AI Engineering, Data Science, and Software Engineering.",
+    "The AI Engineer's Guide: Your Path to  Become THE AI ENGINEER! Hi, I'm Lara Wehbe \ud83d\udc4b  Welcome! I'm  Lara Wehbe , an  AI Engineer with 5+ years of experience . I\u2019m a  self-taught  AI enthusiast , passionate about building intelligent systems and helping others break into the  world of AI. I wasn\u2019t alw",
+    ". Remember, there\u2019s a difference between \u201cAI Engineer\u201d and \u201cAI  Researcher\u201d. \ud83d\udca1   The AI Engineers program provides structured learning & community support to  guide you.              TheAIEngineers 12",
+    "Chapter 4: AI Specializations and Advanced Topics\n4.1 Importance of Specialization It's crucial to specialize in a specific area of AI rather than trying to know a little bit about everything. While starting broad to see what interests you is fine, companies eventually seek specialists. The course a",
+    "1.3 AI Engineering vs. Data Science The speaker notes that when applying for jobs advertised as AI Engineering positions, sometimes up to half the job involves data science tasks. This can be surprising as what people learn might differ from the job requirements. While data science is a great job an",
+    ". \ud83d\udc49   Join now:   The AI Engineers Program \ud83d\udccc   Don\u2019t miss the explanatory video in the link above!  It will give you a full tour of what  you\u2019ll get inside the program and how you can kickstart your AI journey. The AI revolution is happening now\u2014 will you be part of it?   \ud83d\ude80",
+    ".  \u25cf\u200b  Industries are transforming , meaning AI skills are applicable in virtually any field.  \u25cf\u200b AI isn\u2019t just for researchers anymore\u2014 practical AI engineering skills  are what companies want today. \ud83d\udccc   Case Study: AI in Healthcare  AI-powered diagnostic tools are now capable of detecting  disease",
+    ". It\u2019s a  complete AI  learning ecosystem , designed to  make you job-ready , not just teach theory.  What\u2019s Next? You\u2019ve now explored the roadmap to becoming an AI engineer, the essential skills required, and  the best ways to overcome challenges. But knowledge alone isn\u2019t enough\u2014 taking action is "
+  ],
+  "final_llm_output": "Lara: AI stands for Artificial Intelligence, which refers to the development of intelligent systems that can perform tasks that typically require human intelligence, such as learning, problem-solving, and decision-making.",
+  "token_usage": {
+    "total_tokens": 2161,
+    "prompt_tokens": 2122,
+    "completion_tokens": 39
+  }
+}
+
+{
+  "input": "WHAT is deep learning",
+  "contextualized_query": "WHAT is deep learning",
+  "similarity_score": 0.0,
+  "used_contextualized": false,
+  "chat_history": [
+    "what si AI"
+  ],
+  "top_k_docs": [
+    "3.4 Deep Learning Frameworks (TensorFlow, PyTorch) TensorFlow and PyTorch are major frameworks for building and training deep learning models. Learning one of these is essential for deep learning. While their syntax differs, the underlying principles are similar, so learning one makes it easier to p",
+    ". The program emphasizes benefiting from resources that might not be taught extensively in schools or universities. It covers topics ranging from fundamental skills like Python and data handling to more advanced areas such as deep learning, NLP, and computer vision, as well as career aspects like mo",
+    "\u2022\nThe Deep Learning section is highlighted as a crucial point for job applications. This part of the roadmap includes learning about neural networks, CNNs (for computer vision), RNNs/LSTMs (for sequential data like text), Transformers, and generative models.\n\u2022",
+    "3.3 Deep Learning Fundamentals (Neural Networks) Deep Learning involves using neural networks, which are inspired by the structure of the human brain. Neural networks take input data, process it through layers with weights, and produce output data. The learning process involves updating these weight",
+    "Chapter 3: Machine Learning and Deep Learning",
+    "5. Beyond the Basics: Mastering AI Specializations Once you\u2019ve built a strong foundation, it's time to specialize: Natural Language Processing (NLP) \u25cf\u200b Understanding how AI processes human language.  \u25cf\u200b Working with  Hugging Face, spaCy, and Transformer models .  \u25cf\u200b Real-world application:  Chatbots",
+    "In summary, the key takeaway for timing your job search is to start applying once you are engaged in and developing competence in the Deep Learning part of your learning journey.",
+    ". The program provides a general workflow that starts with deciding to learn, checking existing knowledge (like Python), and then progressing through stages like data analytics, machine learning, and deep learning.",
+    "1.4 Importance of a Structured Learning Path The speaker highlights that AI is a field where many people are self-taught. The program offers a structured roadmap to help individuals learn, consolidating resources that the speaker used and making them accessible. This structured approach is crucial b",
+    "Advanced NLP: More advanced topics include Recurrent Neural Networks (RNNs) and Long Short-Term Memory networks (LSTMs), used for sequential data like text. However, these have limitations, such as forgetting earlier parts of long texts (the \"Downfall\" of RNNs). This led to the development of the Tr",
+    "What You'll Find in This Ebook This ebook is designed to give you a  clear roadmap to becoming an AI Engineer , whether  you\u2019re starting from scratch or looking to level up your skills. Inside, you\u2019ll discover: \u2705   Why AI Engineering is the career of the future \u2014and why now is the best time to get  ",
+    ". For applying AI concepts or using existing libraries, basic math understanding (like knowing what a derivative is used for or understanding matrix multiplication for neural networks) is often sufficient. However, for those who want to invent new algorithms, deep dive into the underlying mechanisms"
+  ],
+  "final_llm_output": "Lara: Deep Learning involves using neural networks, which are inspired by the structure of the human brain. Neural networks take input data, process it through layers with weights, and produce output data. The learning process involves updating these weights based on how well the model performs, allowing it to improve.",
+  "token_usage": {
+    "total_tokens": 1929,
+    "prompt_tokens": 1869,
+    "completion_tokens": 60
+  }
+}
+
+{
+  "input": "tell me more about it",
+  "contextualized_query": "tell me more about it",
+  "similarity_score": 0.0,
+  "used_contextualized": false,
+  "chat_history": [
+    "what si AI",
+    "WHAT is deep learning"
+  ],
+  "top_k_docs": [
+    "Check the complete article  here TheAIEngineers 7",
+    ". My  classmates were on track to graduate, moving forward with their careers, while I was stuck,  unsure of my next move. The weight of uncertainty was unbearable. The feeling of watching  others progress while I remained in place was crushing. And then,  COVID-19 hit. Lockdowns were imposed, and t",
+    "Chapter 2: Foundational Skills and Concepts",
+    "................................................................16  7. Conclusion & Next Steps...................................................................................................17  FAQ (Frequently Asked Questions).......................................................................",
+    ".  Practice, Practice, Practice \ud83d\udccc   Inside our program, we cultivate these skills through practical projects and industry insights.           TheAIEngineers 13",
+    ". \u2705   Unlimited access  to our  private community . \u2705  The ability to  ask questions anytime  and receive expert guidance. \u2705  Continuous updates and support to keep you ahead in this fast-paced AI world. 6. I\u2019m in Lebanon. Why can\u2019t I pay in cash or via other local transfers? Inside the program, we ",
+    "1.2 About the Speaker (Lara Wehbe) Lara Wehbe, the speaker, is a self-taught AI Engineer. She learned AI on her own around 2019-2020 during the COVID-19 pandemic, at a time when resources and clear paths for learning AI were not widely available, particularly in Lebanon. Before that, she studied Tel",
+    "1.4 Importance of a Structured Learning Path The speaker highlights that AI is a field where many people are self-taught. The program offers a structured roadmap to help individuals learn, consolidating resources that the speaker used and making them accessible. This structured approach is crucial b",
+    "5. Beyond the Basics: Mastering AI Specializations Once you\u2019ve built a strong foundation, it's time to specialize: Natural Language Processing (NLP) \u25cf\u200b Understanding how AI processes human language.  \u25cf\u200b Working with  Hugging Face, spaCy, and Transformer models .  \u25cf\u200b Real-world application:  Chatbots",
+    ". But in the middle of uncertainty, I made a  promise to myself:\u200b \ud83d\udca1   When this lockdown ends, I will ask myself one question\u2014how did I make the most of that  time? I knew I needed to find something meaningful, something that would give me purpose. And  that\u2019s when I set my sights on  AI Engineering",
+    ". I landed my  first job as a Junior AI  Engineer . I had no AI degree, no official certifications\u2014just a  resume packed with  wow-worthy AI projects  that made recruiters  eager to hire me immediately . That experience taught me another  valuable lesson \u2014 \ud83d\udc68\u200d\ud83c\udfeb   I wished I had a mentor. I wished the",
+    "3.5 Model Deployment and Production (MLOps) A significant challenge is taking a trained AI model and deploying it online for others to use. Often, more than 50% of AI projects made globally never make it past the development stage because of difficulties in deployment. Factors like cost, speed, and ",
+    ". But through  self-learning, hands-on projects, and  perseverance , I found my way into the field and landed my first AI job in just  six months \u2014with  no formal AI degree. Now, I\u2019ve made it my mission to  help others navigate this journey  faster and more efficiently  through  The AI Engineers Pro",
+    "\ud83d\ude80   The same model that took 14 hours on my CPU finished training in just 5 minutes on  Google Colab. That was my  wake-up call . I realized that I had been learning in complete  isolation , wasting  so  much time  trying to figure things out alone when  the right guidance could have saved me  month"
+  ],
+  "final_llm_output": "Lara: Deep learning is a subset of machine learning that involves the use of artificial neural networks to analyze and interpret data. It's a key concept in AI engineering, and we cover it in our program. For more information, you may want to check the following links: https://www.skool.com/theaiengineers.",
+  "token_usage": {
+    "total_tokens": 2376,
+    "prompt_tokens": 2309,
+    "completion_tokens": 67
+  }
+}
+
+{
+  "input": "what is chatgpt",
+  "contextualized_query": "what is chatgpt",
+  "similarity_score": 0.0,
+  "used_contextualized": false,
+  "chat_history": [],
+  "top_k_docs": [
+    "\u2022\nBeyond the basics, the speaker emphasizes the importance of specialization in areas like Natural Language Processing (NLP), Computer Vision, Time Series Analysis, or Recommender Systems, as companies often look for specialists. NLP, in particular, is mentioned as being in very high demand.\n\u2022",
+    "4.2 Natural Language Processing (NLP) NLP deals with enabling computers to understand, interpret, and manipulate human language.\n\u2022\nBasic NLP Concepts: This involves understanding how to process and analyze text.\n\u2022",
+    "Recently, I attended an exclusive  two-day intensive GenAI training in Qatar , where I gained  insights that typically take years to learn. Here are some takeaways: \u2705   LLMs aren\u2019t just chatbots  \u2013 They are  tools for automation, research, and innovation. \u2705   Fine-tuning vs. Prompt Engineering  \u2013 Wh",
+    ". Step 4: Generative AI (GenAI) and Large Language Models (LLMs) With the rise of  ChatGPT, DeepSeek, and other LLMs , AI has moved beyond traditional ML to  Generative AI (GenAI) . \u2705  We offer  two dedicated courses  for GenAI: TheAIEngineers 10",
+    ". The program emphasizes benefiting from resources that might not be taught extensively in schools or universities. It covers topics ranging from fundamental skills like Python and data handling to more advanced areas such as deep learning, NLP, and computer vision, as well as career aspects like mo",
+    "1.1 Program Overview and Goals This program aims to help individuals, regardless of their location in the Arab world, learn how to find well-paying global jobs in AI companies. The program offers a comprehensive plan covering required skills. The goal is for participants to take the provided roadmap",
+    ". \u2705   Unlimited access  to our  private community . \u2705  The ability to  ask questions anytime  and receive expert guidance. \u2705  Continuous updates and support to keep you ahead in this fast-paced AI world. 6. I\u2019m in Lebanon. Why can\u2019t I pay in cash or via other local transfers? Inside the program, we ",
+    ".  Practice, Practice, Practice \ud83d\udccc   Inside our program, we cultivate these skills through practical projects and industry insights.           TheAIEngineers 13",
+    "4.6 Generative AI Generative AI is the most recent prominent field, gaining global attention around November 2022 with the release of ChatGPT. However, generative models like Generative Adversarial Networks (GANs), which can create realistic images, have existed since earlier (around 2017-2018).\n\u2022\nG",
+    "5.4 Remote Work in AI Remote work is very common in the AI field. The speaker has worked remotely for companies in multiple countries. Companies may hire remotely from regions like Lebanon to reduce costs while accessing highly skilled professionals.",
+    "1.3 AI Engineering vs. Data Science The speaker notes that when applying for jobs advertised as AI Engineering positions, sometimes up to half the job involves data science tasks. This can be surprising as what people learn might differ from the job requirements. While data science is a great job an",
+    ". For applying AI concepts or using existing libraries, basic math understanding (like knowing what a derivative is used for or understanding matrix multiplication for neural networks) is often sufficient. However, for those who want to invent new algorithms, deep dive into the underlying mechanisms",
+    ". \ud83d\udc49   Join now:   The AI Engineers Program \ud83d\udccc   Don\u2019t miss the explanatory video in the link above!  It will give you a full tour of what  you\u2019ll get inside the program and how you can kickstart your AI journey. The AI revolution is happening now\u2014 will you be part of it?   \ud83d\ude80",
+    ". It\u2019s a  complete AI  learning ecosystem , designed to  make you job-ready , not just teach theory.  What\u2019s Next? You\u2019ve now explored the roadmap to becoming an AI engineer, the essential skills required, and  the best ways to overcome challenges. But knowledge alone isn\u2019t enough\u2014 taking action is "
+  ],
+  "final_llm_output": "Lara: ChatGPT is a Large Language Model (LLM) that has moved AI beyond traditional Machine Learning (ML) to Generative AI (GenAI). It's a tool for automation, research, and innovation, not just a chatbot.",
+  "token_usage": {
+    "total_tokens": 2347,
+    "prompt_tokens": 2294,
+    "completion_tokens": 53
+  }
+}
+
+{
+  "input": "LLM?",
+  "contextualized_query": "LLM?",
+  "similarity_score": 0.0,
+  "used_contextualized": false,
+  "chat_history": [
+    "what is chatgpt"
+  ],
+  "top_k_docs": [
+    "................................................................16  7. Conclusion & Next Steps...................................................................................................17  FAQ (Frequently Asked Questions).......................................................................",
+    "1.\u200b  GenAI for Beginners  \u2013 Covering the basics of Large Language Models (LLMs), prompt engineering, and simple applications.  2.\u200b  Advanced GenAI & LLMs  \u2013 Fine-tuning custom LLMs, using frameworks like LangChain , and deploying GenAI applications. \ud83d\udccc   What You Will Learn: \u25cf\u200b  How LLMs work  \u2013 Tran",
+    "Chapter 3: Machine Learning and Deep Learning",
+    "Recently, I attended an exclusive  two-day intensive GenAI training in Qatar , where I gained  insights that typically take years to learn. Here are some takeaways: \u2705   LLMs aren\u2019t just chatbots  \u2013 They are  tools for automation, research, and innovation. \u2705   Fine-tuning vs. Prompt Engineering  \u2013 Wh",
+    ". Step 4: Generative AI (GenAI) and Large Language Models (LLMs) With the rise of  ChatGPT, DeepSeek, and other LLMs , AI has moved beyond traditional ML to  Generative AI (GenAI) . \u2705  We offer  two dedicated courses  for GenAI: TheAIEngineers 10",
+    "Check the complete article  here TheAIEngineers 7",
+    "FAQ (Frequently Asked Questions) 1. I'm not good at English, will I struggle in the course? No worries! The course is entirely  in Arabic , but we  keep the technical terminologies in  English  to ensure you learn AI the same way it\u2019s used in the industry. This makes it easier for  you to apply your",
+    ". Understanding the Attention mechanism, potentially including its underlying math, is important.",
+    "The AI Engineer's Guide: Your Path to Become THE AI ENGINEER!..................................... 3 What You'll Find in This Ebook................................................................................................ 4  Introduction.........................................................",
+    "5.7 The Value of Community Learning within a community is highly beneficial. Discussing topics with others and learning from their questions and experiences helps keep everyone updated and supported. The program aims to build a community for this purpose.\nChapter 6: Learning Resources and Strategies",
+    "In summary, the key takeaway for timing your job search is to start applying once you are engaged in and developing competence in the Deep Learning part of your learning journey.",
+    "\u2022\nA background in Software Engineering is considered advantageous for an AI engineering role because you understand the software development lifecycle, code structuring, and production aspects.\n\u2022\nThe AI job market offers global opportunities, including remote work, making it possible to work for int",
+    "\u2022\nLearning how to put your AI models into production (deployment/MLOps) is also crucial for the job market, as many AI projects fail to reach this stage. This involves making your model accessible via APIs. Knowledge of cloud platforms like AWS SageMaker or Azure ML is beneficial for production.\n\u2022\nB",
+    "\u2022\nBeyond the basics, the speaker emphasizes the importance of specialization in areas like Natural Language Processing (NLP), Computer Vision, Time Series Analysis, or Recommender Systems, as companies often look for specialists. NLP, in particular, is mentioned as being in very high demand.\n\u2022"
+  ],
+  "final_llm_output": "Lara: LLM stands for Large Language Model. It's a type of artificial intelligence (AI) model that is trained on a large amount of text data to generate language understanding and generation capabilities.",
+  "token_usage": {
+    "total_tokens": 1951,
+    "prompt_tokens": 1910,
+    "completion_tokens": 41
+  }
+}
+
+{
+  "input": "ai?",
+  "contextualized_query": "ai?",
+  "similarity_score": 0.0,
+  "used_contextualized": false,
+  "chat_history": [
+    "what is chatgpt",
+    "LLM?",
+    "Lara: LLM stands for Large Language Model. It's a type of artificial intelligence (AI) model that is trained on a large amount of text data to generate language understanding and generation capabilities."
+  ],
+  "top_k_docs": [
+    "5. Beyond the Basics: Mastering AI Specializations Once you\u2019ve built a strong foundation, it's time to specialize: Natural Language Processing (NLP) \u25cf\u200b Understanding how AI processes human language.  \u25cf\u200b Working with  Hugging Face, spaCy, and Transformer models .  \u25cf\u200b Real-world application:  Chatbots",
+    "1.4 Importance of a Structured Learning Path The speaker highlights that AI is a field where many people are self-taught. The program offers a structured roadmap to help individuals learn, consolidating resources that the speaker used and making them accessible. This structured approach is crucial b",
+    "The AI Engineer's Guide: Your Path to Become THE AI ENGINEER!..................................... 3 What You'll Find in This Ebook................................................................................................ 4  Introduction.........................................................",
+    "Chapter 1: Introduction to the Program and AI Engineering",
+    "2.1 Math Requirements for AI There is a debate about whether extensive math knowledge is necessary for AI. Some believe you cannot learn AI without knowing a lot of math, while others say you only need the required math. The speaker believes that you don't need to be very strong in math to find a jo",
+    ". Remember, there\u2019s a difference between \u201cAI Engineer\u201d and \u201cAI  Researcher\u201d. \ud83d\udca1   The AI Engineers program provides structured learning & community support to  guide you.              TheAIEngineers 12",
+    ". But in the middle of uncertainty, I made a  promise to myself:\u200b \ud83d\udca1   When this lockdown ends, I will ask myself one question\u2014how did I make the most of that  time? I knew I needed to find something meaningful, something that would give me purpose. And  that\u2019s when I set my sights on  AI Engineering",
+    ". \ud83d\udc49   Join now:   The AI Engineers Program \ud83d\udccc   Don\u2019t miss the explanatory video in the link above!  It will give you a full tour of what  you\u2019ll get inside the program and how you can kickstart your AI journey. The AI revolution is happening now\u2014 will you be part of it?   \ud83d\ude80",
+    ". As businesses integrate AI to optimize operations, automate tasks, and enhance  decision-making, the need for skilled  AI professionals who can develop, deploy, and  maintain these systems  has never been higher. If you\u2019re considering a career in AI,  now is the perfect time to start . With struct",
+    "Chapter 4: AI Specializations and Advanced Topics\n4.1 Importance of Specialization It's crucial to specialize in a specific area of AI rather than trying to know a little bit about everything. While starting broad to see what interests you is fine, companies eventually seek specialists. The course a",
+    "In summary, the key takeaway for timing your job search is to start applying once you are engaged in and developing competence in the Deep Learning part of your learning journey.",
+    "\u2022\nA background in Software Engineering is considered advantageous for an AI engineering role because you understand the software development lifecycle, code structuring, and production aspects.\n\u2022\nThe AI job market offers global opportunities, including remote work, making it possible to work for int",
+    "\u2022\nLearning how to put your AI models into production (deployment/MLOps) is also crucial for the job market, as many AI projects fail to reach this stage. This involves making your model accessible via APIs. Knowledge of cloud platforms like AWS SageMaker or Azure ML is beneficial for production.\n\u2022\nB",
+    "\u2022\nBeyond the basics, the speaker emphasizes the importance of specialization in areas like Natural Language Processing (NLP), Computer Vision, Time Series Analysis, or Recommender Systems, as companies often look for specialists. NLP, in particular, is mentioned as being in very high demand.\n\u2022"
+  ],
+  "final_llm_output": "Lara: AI stands for Artificial Intelligence, which refers to the development of computer systems that can perform tasks that typically require human intelligence, such as learning, problem-solving, and decision-making.",
+  "token_usage": {
+    "total_tokens": 2214,
+    "prompt_tokens": 2175,
+    "completion_tokens": 39
+  }
+}
+
+{
+  "input": "when i can enter job market",
+  "contextualized_query": "when i can enter job market",
+  "similarity_score": 0.0,
+  "used_contextualized": false,
+  "chat_history": [
+    "what is chatgpt",
+    "LLM?",
+    "Lara: LLM stands for Large Language Model. It's a type of artificial intelligence (AI) model that is trained on a large amount of text data to generate language understanding and generation capabilities.",
+    "ai?"
+  ],
+  "top_k_docs": [
+    "6.5 Dealing with Marketing Hype There is a lot of marketing hype around AI, with programs promising to make you an AI Engineer quickly. It's important to find reliable resources and a structured path rather than getting sidetracked by every new trend or tool. The program aims to provide a solid foun",
+    "The  Generative AI Jobs Market  is growing at an  astonishing CAGR of 18.9% , with a  projected market size of  $1,259.9M by 2033 . This rapid growth indicates a  booming demand  for AI engineers  across industries. The chart highlights key AI-driven job sectors such as  content creation, data analy",
+    "Chapter 5: Career Development and the Job Market\n5.1 When to Start Applying for Jobs The speaker advises starting to apply for jobs once you begin the deep learning section of the course and feel you are gaining proficiency (e.g., after a few weeks). Applying allows you to gain hands-on experience w",
+    "In summary, the key takeaway for timing your job search is to start applying once you are engaged in and developing competence in the Deep Learning part of your learning journey.",
+    "Here's a bit more context from the source regarding the path to becoming an AI engineer and entering the job market:\n\u2022\nThe roadmap discussed in the video starts with foundational steps like deciding to learn AI, learning Python basics (including loops, conditional statements, data structures like li",
+    "5.3 Job Opportunities (Local and Global) Learning AI opens up opportunities for both local and global jobs. The market is not limited to specific locations. Companies in places like the US, Canada, and Dubai are hiring remotely from locations like Lebanon.",
+    "Based on the source, you can start applying for AI jobs once you begin the Deep Learning section of the roadmap and feel you are starting to master it. The speaker suggests that a week, two, or three weeks after starting the Deep Learning course and feeling comfortable with the material is a good ti",
+    ". As businesses integrate AI to optimize operations, automate tasks, and enhance  decision-making, the need for skilled  AI professionals who can develop, deploy, and  maintain these systems  has never been higher. If you\u2019re considering a career in AI,  now is the perfect time to start . With struct",
+    ". She emphasizes that the learning path she followed in 2019-2020 is not the same as the path needed today because the field is constantly changing. Her experience includes conducting over 50 to 100 job interviews over four years.",
+    ". Companies value experienced software engineers transitioning into AI roles.",
+    "1.3 AI Engineering vs. Data Science The speaker notes that when applying for jobs advertised as AI Engineering positions, sometimes up to half the job involves data science tasks. This can be surprising as what people learn might differ from the job requirements. While data science is a great job an",
+    "\u2022\nA background in Software Engineering is considered advantageous for an AI engineering role because you understand the software development lifecycle, code structuring, and production aspects.\n\u2022\nThe AI job market offers global opportunities, including remote work, making it possible to work for int"
+  ],
+  "final_llm_output": "Lara: You can start applying for AI jobs once you begin the Deep Learning section of the roadmap and feel you are starting to master it, typically after a few weeks.",
+  "token_usage": {
+    "total_tokens": 1919,
+    "prompt_tokens": 1883,
+    "completion_tokens": 36
+  }
+}
+
+{
+  "input": "shjould i know deep math?",
+  "contextualized_query": "shjould i know deep math?",
+  "similarity_score": 0.0,
+  "used_contextualized": false,
+  "chat_history": [
+    "what is chatgpt",
+    "LLM?",
+    "Lara: LLM stands for Large Language Model. It's a type of artificial intelligence (AI) model that is trained on a large amount of text data to generate language understanding and generation capabilities.",
+    "ai?",
+    "when i can enter job market",
+    "Lara: You can start applying for AI jobs once you begin the Deep Learning section of the roadmap and feel you are starting to master it, typically after a few weeks."
+  ],
+  "top_k_docs": [
+    ". Understanding the Attention mechanism, potentially including its underlying math, is important.",
+    "2.1 Math Requirements for AI There is a debate about whether extensive math knowledge is necessary for AI. Some believe you cannot learn AI without knowing a lot of math, while others say you only need the required math. The speaker believes that you don't need to be very strong in math to find a jo",
+    ". The program aims to teach the necessary math without going into excessive detail unless needed for specific advanced topics.",
+    "FAQ (Frequently Asked Questions) 1. I'm not good at English, will I struggle in the course? No worries! The course is entirely  in Arabic , but we  keep the technical terminologies in  English  to ensure you learn AI the same way it\u2019s used in the industry. This makes it easier for  you to apply your",
+    "Chapter 3: Machine Learning and Deep Learning",
+    ". For applying AI concepts or using existing libraries, basic math understanding (like knowing what a derivative is used for or understanding matrix multiplication for neural networks) is often sufficient. However, for those who want to invent new algorithms, deep dive into the underlying mechanisms",
+    "6.2 Recommended External Resources (Books, Courses) The speaker recommends external resources, including specific books like \"Mathematics for Machine Learning,\" which she found very helpful. Other courses and resources that influenced the program's structure are also mentioned as beneficial.\n6.3 Eff",
+    ". That\u2019s why we only teach you  the essential  math required for AI jobs . We start from  scratch  and focus on  practical applications  to help  you understand concepts through  real-world projects . No unnecessary theories\u2014just what you  need to succeed. 3. I don\u2019t know programming. Can I still jo",
+    "3. Common Challenges and How to Overcome Them Many beginners struggle with: \u25cf\u200b  \u201cAI is too complex\u201d  \u2192 Start with small projects & build gradually.  \u25cf\u200b  \u201cI don\u2019t have a technical background\u201d  \u2192 Many AI engineers start from scratch\u2014focus on Python & ML basics.  \u25cf\u200b  \u201cI don\u2019t know how to practice\u201d  \u2192  ",
+    ". It felt like I was lost at sea, trying to navigate an ocean with no map, no  compass, and no idea where the shore was. I spent countless nights jumping between YouTube tutorials, online courses, and blog posts,  desperately trying to piece together the knowledge I needed. One day, I was learning P",
+    "6.5 Dealing with Marketing Hype There is a lot of marketing hype around AI, with programs promising to make you an AI Engineer quickly. It's important to find reliable resources and a structured path rather than getting sidetracked by every new trend or tool. The program aims to provide a solid foun",
+    "3.4 Deep Learning Frameworks (TensorFlow, PyTorch) TensorFlow and PyTorch are major frameworks for building and training deep learning models. Learning one of these is essential for deep learning. While their syntax differs, the underlying principles are similar, so learning one makes it easier to p",
+    ". The program provides a general workflow that starts with deciding to learn, checking existing knowledge (like Python), and then progressing through stages like data analytics, machine learning, and deep learning.",
+    "Chapter 4: AI Specializations and Advanced Topics\n4.1 Importance of Specialization It's crucial to specialize in a specific area of AI rather than trying to know a little bit about everything. While starting broad to see what interests you is fine, companies eventually seek specialists. The course a"
+  ],
+  "final_llm_output": "Lara: No, you don't need to be very strong in math to find a job in AI. The program aims to teach the necessary math without going into excessive detail unless needed for specific advanced topics.",
+  "token_usage": {
+    "total_tokens": 2366,
+    "prompt_tokens": 2323,
+    "completion_tokens": 43
+  }
+}
+
+{
+  "input": "what is the cost of AI program",
+  "contextualized_query": "what is the cost of AI program",
+  "similarity_score": 0.0,
+  "used_contextualized": false,
+  "chat_history": [
+    "what is chatgpt",
+    "LLM?",
+    "Lara: LLM stands for Large Language Model. It's a type of artificial intelligence (AI) model that is trained on a large amount of text data to generate language understanding and generation capabilities.",
+    "ai?",
+    "when i can enter job market",
+    "Lara: You can start applying for AI jobs once you begin the Deep Learning section of the roadmap and feel you are starting to master it, typically after a few weeks."
+  ],
+  "top_k_docs": [
+    "1.1 Program Overview and Goals This program aims to help individuals, regardless of their location in the Arab world, learn how to find well-paying global jobs in AI companies. The program offers a comprehensive plan covering required skills. The goal is for participants to take the provided roadmap",
+    "Chapter 1: Introduction to the Program and AI Engineering",
+    ". This program intends to clarify the difference between AI Engineering, Data Science, and Software Engineering.",
+    ". By the end of the  program, you\u2019ll be coding AI models with confidence. 4. How can I pay for the program? We accept  Visa, Mastercard, and any online shopping card . Payment is quick and secure. 5. What do I get if I register for the yearly plan? With the  yearly plan , you get: \u2705   Full access  t",
+    ". But  here\u2019s the thing: \u274c  It\u2019s NOT a course.  \u2705  It\u2019s a  full AI program . For  $49/month , you get: \u25cf\u200b  Access to 12+ courses , not just one.  \u25cf\u200b  A supportive private community  where you can ask questions anytime.  \u25cf\u200b  Monthly live meetings  to stay up to date.  \u25cf\u200b  Recorded sessions of all pas",
+    "Let\u2019s dive in!  \ud83d\ude80  1. Why AI Engineering is the Career of the Future AI is not just the future\u2014it\u2019s the present. Companies across industries, from  healthcare to  finance to marketing , are rapidly adopting AI to optimize processes, improve decision-making,  and create smarter solutions. Why Now is ",
+    "The  Generative AI Jobs Market  is growing at an  astonishing CAGR of 18.9% , with a  projected market size of  $1,259.9M by 2033 . This rapid growth indicates a  booming demand  for AI engineers  across industries. The chart highlights key AI-driven job sectors such as  content creation, data analy",
+    "Think of it this way:  If setting up a simple online payment method feels like too much  effort, this course might not be the right fit for you \u2014because learning AI requires  commitment, consistency, and effort . Lastly, due to the  high demand , we keep all payments  managed online for smoother ope",
+    ". \u2705   Practical AI Application  \u2013 Deploying models at scale in real-world use cases. \ud83d\udccc   These insights are now incorporated into The AI Engineers program!   \ud83d\ude80    TheAIEngineers 15",
+    "Here's a bit more context from the source regarding the path to becoming an AI engineer and entering the job market:\n\u2022\nThe roadmap discussed in the video starts with foundational steps like deciding to learn AI, learning Python basics (including loops, conditional statements, data structures like li",
+    ". \ud83d\udc49   Join now:   The AI Engineers Program \ud83d\udccc   Don\u2019t miss the explanatory video in the link above!  It will give you a full tour of what  you\u2019ll get inside the program and how you can kickstart your AI journey. The AI revolution is happening now\u2014 will you be part of it?   \ud83d\ude80",
+    "1.3 AI Engineering vs. Data Science The speaker notes that when applying for jobs advertised as AI Engineering positions, sometimes up to half the job involves data science tasks. This can be surprising as what people learn might differ from the job requirements. While data science is a great job an",
+    "6.4 Addressing Common Concerns (Being Behind, Overwhelm) Many people feel they are behind or that the field is too vast. The speaker advises against this feeling. Continuous learning is normal in AI, and no one knows everything. The structured program and community support are designed to mitigate t",
+    ". It\u2019s a  complete AI  learning ecosystem , designed to  make you job-ready , not just teach theory.  What\u2019s Next? You\u2019ve now explored the roadmap to becoming an AI engineer, the essential skills required, and  the best ways to overcome challenges. But knowledge alone isn\u2019t enough\u2014 taking action is "
+  ],
+  "final_llm_output": "Lara: The cost of the AI program is $49 per month.",
+  "token_usage": {
+    "total_tokens": 2532,
+    "prompt_tokens": 2516,
+    "completion_tokens": 16
+  }
+}
+
+{
+  "input": "provide more deatils about AI engineer program",
+  "contextualized_query": "provide more deatils about AI engineer program",
+  "similarity_score": 0.0,
+  "used_contextualized": false,
+  "chat_history": [
+    "LLM?",
+    "Lara: LLM stands for Large Language Model. It's a type of artificial intelligence (AI) model that is trained on a large amount of text data to generate language understanding and generation capabilities.",
+    "ai?",
+    "when i can enter job market",
+    "Lara: You can start applying for AI jobs once you begin the Deep Learning section of the roadmap and feel you are starting to master it, typically after a few weeks.",
+    "what is the cost of AI program",
+    "Lara: The cost of the AI program is $49 per month."
+  ],
+  "top_k_docs": [
+    ". Remember, there\u2019s a difference between \u201cAI Engineer\u201d and \u201cAI  Researcher\u201d. \ud83d\udca1   The AI Engineers program provides structured learning & community support to  guide you.              TheAIEngineers 12",
+    ". This program intends to clarify the difference between AI Engineering, Data Science, and Software Engineering.",
+    "Chapter 1: Introduction to the Program and AI Engineering",
+    "The AI Engineer's Guide: Your Path to Become THE AI ENGINEER!..................................... 3 What You'll Find in This Ebook................................................................................................ 4  Introduction.........................................................",
+    ".  Someone who had already walked this path. Enter: The AI Engineers Program That\u2019s exactly why I created  The AI Engineers Program . I built this program to give  aspiring AI engineers  what I never had: \u25cf\u200b A  clear roadmap  that eliminates confusion.  \u25cf\u200b A  community  that provides support and mot",
+    ". \ud83d\udc49   Join now:   The AI Engineers Program \ud83d\udccc   Don\u2019t miss the explanatory video in the link above!  It will give you a full tour of what  you\u2019ll get inside the program and how you can kickstart your AI journey. The AI revolution is happening now\u2014 will you be part of it?   \ud83d\ude80",
+    "1.1 Program Overview and Goals This program aims to help individuals, regardless of their location in the Arab world, learn how to find well-paying global jobs in AI companies. The program offers a comprehensive plan covering required skills. The goal is for participants to take the provided roadmap",
+    ". \u2705   Real-world AI projects and success stories  that will inspire and guide you. \u2705   How The AI Engineers Program can fast-track your journey  with mentorship, structured  learning, and hands-on experience. By the end of this ebook, you\u2019ll have a  clear action plan  to kickstart your AI career and",
+    "7. Conclusion & Next Steps Becoming an AI engineer is one of the most  exciting and rewarding career paths  today. By  following the structured roadmap in this ebook, you now have a  clear path to success. \ud83d\udca1   Want to fast-track your AI journey? \ud83c\udfaf  Join  The AI Engineers Program  today and get: \u2705   ",
+    "If you're ready to turn your AI dreams into reality,  join The AI Engineers Program today!   \ud83d\ude80   This program is designed to guide you step by step, offering:  \u2705  Structured courses tailored for  beginners and advanced learners.  \u2705  Hands-on projects that help you build a strong AI  portfolio.  \u2705  M",
+    "Here's a bit more context from the source regarding the path to becoming an AI engineer and entering the job market:\n\u2022\nThe roadmap discussed in the video starts with foundational steps like deciding to learn AI, learning Python basics (including loops, conditional statements, data structures like li",
+    "6.5 Dealing with Marketing Hype There is a lot of marketing hype around AI, with programs promising to make you an AI Engineer quickly. It's important to find reliable resources and a structured path rather than getting sidetracked by every new trend or tool. The program aims to provide a solid foun",
+    "2. Roadmap to AI Success Becoming an AI engineer requires structured learning. Here\u2019s a  step-by-step guide  to  mastering AI:\n\n TheAIEngineers 9",
+    ". The program emphasizes benefiting from resources that might not be taught extensively in schools or universities. It covers topics ranging from fundamental skills like Python and data handling to more advanced areas such as deep learning, NLP, and computer vision, as well as career aspects like mo"
+  ],
+  "final_llm_output": "Lara: The AI Engineers Program is a comprehensive program designed to guide you step-by-step in becoming a proficient AI engineer. It offers structured learning, hands-on projects, community support, and mentorship to help you land AI jobs. The program covers topics ranging from fundamental skills like Python and data handling to advanced areas like deep learning, NLP, and computer vision, as well as career aspects like model deployment and interview preparation.",
+  "token_usage": {
+    "total_tokens": 2378,
+    "prompt_tokens": 2291,
+    "completion_tokens": 87
+  }
+}
+
+{
+  "input": "how many courses?",
+  "contextualized_query": "how many courses?",
+  "similarity_score": 0.0,
+  "used_contextualized": false,
+  "chat_history": [
+    "ai?",
+    "when i can enter job market",
+    "Lara: You can start applying for AI jobs once you begin the Deep Learning section of the roadmap and feel you are starting to master it, typically after a few weeks.",
+    "what is the cost of AI program",
+    "Lara: The cost of the AI program is $49 per month.",
+    "provide more deatils about AI engineer program"
+  ],
+  "top_k_docs": [
+    ". But  here\u2019s the thing: \u274c  It\u2019s NOT a course.  \u2705  It\u2019s a  full AI program . For  $49/month , you get: \u25cf\u200b  Access to 12+ courses , not just one.  \u25cf\u200b  A supportive private community  where you can ask questions anytime.  \u25cf\u200b  Monthly live meetings  to stay up to date.  \u25cf\u200b  Recorded sessions of all pas",
+    ". She emphasizes that the learning path she followed in 2019-2020 is not the same as the path needed today because the field is constantly changing. Her experience includes conducting over 50 to 100 job interviews over four years.",
+    "6.2 Recommended External Resources (Books, Courses) The speaker recommends external resources, including specific books like \"Mathematics for Machine Learning,\" which she found very helpful. Other courses and resources that influenced the program's structure are also mentioned as beneficial.\n6.3 Eff",
+    ". The program aims to teach the necessary math without going into excessive detail unless needed for specific advanced topics.",
+    "Think of it this way:  If setting up a simple online payment method feels like too much  effort, this course might not be the right fit for you \u2014because learning AI requires  commitment, consistency, and effort . Lastly, due to the  high demand , we keep all payments  managed online for smoother ope",
+    "Chapter 6: Learning Resources and Strategies\n6.1 Program's Roadmap and Structure The program provides a roadmap starting with fundamentals (Python, Data Analysis) and progressing to Machine Learning, Deep Learning, and Specializations (NLP, CV). Each month focuses on new topics. The learning materia",
+    "FAQ (Frequently Asked Questions) 1. I'm not good at English, will I struggle in the course? No worries! The course is entirely  in Arabic , but we  keep the technical terminologies in  English  to ensure you learn AI the same way it\u2019s used in the industry. This makes it easier for  you to apply your",
+    ". The program emphasizes benefiting from resources that might not be taught extensively in schools or universities. It covers topics ranging from fundamental skills like Python and data handling to more advanced areas such as deep learning, NLP, and computer vision, as well as career aspects like mo",
+    "Chapter 2: Foundational Skills and Concepts",
+    "Chapter 4: AI Specializations and Advanced Topics\n4.1 Importance of Specialization It's crucial to specialize in a specific area of AI rather than trying to know a little bit about everything. While starting broad to see what interests you is fine, companies eventually seek specialists. The course a",
+    "\u2022\nLearning how to put your AI models into production (deployment/MLOps) is also crucial for the job market, as many AI projects fail to reach this stage. This involves making your model accessible via APIs. Knowledge of cloud platforms like AWS SageMaker or Azure ML is beneficial for production.\n\u2022\nB",
+    ". For example, high precision but low recall suggests the model is good at identifying true positives but misses many actual positives.",
+    "1.4 Importance of a Structured Learning Path The speaker highlights that AI is a field where many people are self-taught. The program offers a structured roadmap to help individuals learn, consolidating resources that the speaker used and making them accessible. This structured approach is crucial b",
+    "2.5 Model Evaluation Metrics Understanding how to evaluate the performance of a model is critical. Key metrics include Accuracy, Precision, Recall, F1 Score, and the Confusion Matrix. These metrics help determine how well a model is performing, identify issues like overfitting or underfitting, and u"
+  ],
+  "final_llm_output": "Lara: The AI program includes access to 12+ courses.",
+  "token_usage": {
+    "total_tokens": 2350,
+    "prompt_tokens": 2335,
+    "completion_tokens": 15
+  }
+}
+
+{
+  "input": "how to start AI?",
+  "contextualized_query": "how to start AI?",
+  "similarity_score": 0.0,
+  "used_contextualized": false,
+  "chat_history": [],
+  "top_k_docs": [
+    "3. Common Challenges and How to Overcome Them Many beginners struggle with: \u25cf\u200b  \u201cAI is too complex\u201d  \u2192 Start with small projects & build gradually.  \u25cf\u200b  \u201cI don\u2019t have a technical background\u201d  \u2192 Many AI engineers start from scratch\u2014focus on Python & ML basics.  \u25cf\u200b  \u201cI don\u2019t know how to practice\u201d  \u2192  ",
+    "2. Roadmap to AI Success Becoming an AI engineer requires structured learning. Here\u2019s a  step-by-step guide  to  mastering AI:\n\n TheAIEngineers 9",
+    "5. Beyond the Basics: Mastering AI Specializations Once you\u2019ve built a strong foundation, it's time to specialize: Natural Language Processing (NLP) \u25cf\u200b Understanding how AI processes human language.  \u25cf\u200b Working with  Hugging Face, spaCy, and Transformer models .  \u25cf\u200b Real-world application:  Chatbots",
+    "The AI Engineer's Guide: Your Path to Become THE AI ENGINEER!..................................... 3 What You'll Find in This Ebook................................................................................................ 4  Introduction.........................................................",
+    ". \ud83d\udc49   Join now:   The AI Engineers Program \ud83d\udccc   Don\u2019t miss the explanatory video in the link above!  It will give you a full tour of what  you\u2019ll get inside the program and how you can kickstart your AI journey. The AI revolution is happening now\u2014 will you be part of it?   \ud83d\ude80",
+    "1.4 Importance of a Structured Learning Path The speaker highlights that AI is a field where many people are self-taught. The program offers a structured roadmap to help individuals learn, consolidating resources that the speaker used and making them accessible. This structured approach is crucial b",
+    ". But in the middle of uncertainty, I made a  promise to myself:\u200b \ud83d\udca1   When this lockdown ends, I will ask myself one question\u2014how did I make the most of that  time? I knew I needed to find something meaningful, something that would give me purpose. And  that\u2019s when I set my sights on  AI Engineering",
+    "Step 1: Programming Basics \u25cf\u200b Python is the primary language for AI\u2014 start here.  \u25cf\u200b Learn  data structures, algorithms, and problem-solving .  \u25cf\u200b Hands-on exercises:  Write simple scripts, automate tasks, and work with datasets.  \u25cf\u200b Understand  object-oriented programming (OOP)  and  functional pro",
+    ". As businesses integrate AI to optimize operations, automate tasks, and enhance  decision-making, the need for skilled  AI professionals who can develop, deploy, and  maintain these systems  has never been higher. If you\u2019re considering a career in AI,  now is the perfect time to start . With struct",
+    "Here's a bit more context from the source regarding the path to becoming an AI engineer and entering the job market:\n\u2022\nThe roadmap discussed in the video starts with foundational steps like deciding to learn AI, learning Python basics (including loops, conditional statements, data structures like li",
+    ". That\u2019s why we only teach you  the essential  math required for AI jobs . We start from  scratch  and focus on  practical applications  to help  you understand concepts through  real-world projects . No unnecessary theories\u2014just what you  need to succeed. 3. I don\u2019t know programming. Can I still jo",
+    "In summary, the key takeaway for timing your job search is to start applying once you are engaged in and developing competence in the Deep Learning part of your learning journey.",
+    "4.2 Natural Language Processing (NLP) NLP deals with enabling computers to understand, interpret, and manipulate human language.\n\u2022\nBasic NLP Concepts: This involves understanding how to process and analyze text.\n\u2022"
+  ],
+  "final_llm_output": "Lara: Start with small projects and build gradually. Focus on Python and ML basics. Join the AI Engineers Program for a structured roadmap to kickstart your AI journey.",
+  "token_usage": {
+    "total_tokens": 2311,
+    "prompt_tokens": 2276,
+    "completion_tokens": 35
+  }
+}
+
+{
+  "input": "WHAT IS the cost of  AI Engineers Program?",
+  "contextualized_query": "WHAT IS the cost of  AI Engineers Program?",
+  "similarity_score": 0.0,
+  "used_contextualized": false,
+  "chat_history": [
+    "how to start AI?",
+    "Lara: Start with small projects and build gradually. Focus on Python and ML basics. Join the AI Engineers Program for a structured roadmap to kickstart your AI journey."
+  ],
+  "top_k_docs": [
+    ". \ud83d\udc49   Join now:   The AI Engineers Program \ud83d\udccc   Don\u2019t miss the explanatory video in the link above!  It will give you a full tour of what  you\u2019ll get inside the program and how you can kickstart your AI journey. The AI revolution is happening now\u2014 will you be part of it?   \ud83d\ude80",
+    "Let\u2019s dive in!  \ud83d\ude80  1. Why AI Engineering is the Career of the Future AI is not just the future\u2014it\u2019s the present. Companies across industries, from  healthcare to  finance to marketing , are rapidly adopting AI to optimize processes, improve decision-making,  and create smarter solutions. Why Now is ",
+    ". Remember, there\u2019s a difference between \u201cAI Engineer\u201d and \u201cAI  Researcher\u201d. \ud83d\udca1   The AI Engineers program provides structured learning & community support to  guide you.              TheAIEngineers 12",
+    "1.1 Program Overview and Goals This program aims to help individuals, regardless of their location in the Arab world, learn how to find well-paying global jobs in AI companies. The program offers a comprehensive plan covering required skills. The goal is for participants to take the provided roadmap",
+    ".  Someone who had already walked this path. Enter: The AI Engineers Program That\u2019s exactly why I created  The AI Engineers Program . I built this program to give  aspiring AI engineers  what I never had: \u25cf\u200b A  clear roadmap  that eliminates confusion.  \u25cf\u200b A  community  that provides support and mot",
+    ". This program intends to clarify the difference between AI Engineering, Data Science, and Software Engineering.",
+    "Chapter 1: Introduction to the Program and AI Engineering",
+    "Here's a bit more context from the source regarding the path to becoming an AI engineer and entering the job market:\n\u2022\nThe roadmap discussed in the video starts with foundational steps like deciding to learn AI, learning Python basics (including loops, conditional statements, data structures like li",
+    "The  Generative AI Jobs Market  is growing at an  astonishing CAGR of 18.9% , with a  projected market size of  $1,259.9M by 2033 . This rapid growth indicates a  booming demand  for AI engineers  across industries. The chart highlights key AI-driven job sectors such as  content creation, data analy",
+    ". \u2705   Practical AI Application  \u2013 Deploying models at scale in real-world use cases. \ud83d\udccc   These insights are now incorporated into The AI Engineers program!   \ud83d\ude80    TheAIEngineers 15",
+    "..............................................8  2. Roadmap to AI Success.................................................................................................... 10  4. What Sets Successful AI Engineers Apart?.......................................................................14  5. B",
+    ". This guide will walk you through:\u200b \u2705   Why AI Engineering is the career of the future.\u200b \u2705   The step-by-step roadmap to becoming an AI Engineer.\u200b \u2705   The biggest challenges in AI learning and how to overcome them.\u200b \u2705   Real-world AI projects to inspire and motivate you.\u200b \u2705   How The AI Engineers P",
+    ". \u2705   Real-world AI projects and success stories  that will inspire and guide you. \u2705   How The AI Engineers Program can fast-track your journey  with mentorship, structured  learning, and hands-on experience. By the end of this ebook, you\u2019ll have a  clear action plan  to kickstart your AI career and"
+  ],
+  "final_llm_output": "Lara: The cost of the AI Engineers Program is not specified in the provided context. For more information, you may want to check the following link: https://www.skool.com/theaiengineers.",
+  "token_usage": {
+    "total_tokens": 2077,
+    "prompt_tokens": 2034,
+    "completion_tokens": 43
+  }
+}
+
+{
+  "input": "how old are you?",
+  "contextualized_query": "how old are you?",
+  "similarity_score": 0.0,
+  "used_contextualized": false,
+  "chat_history": [
+    "how to start AI?",
+    "Lara: Start with small projects and build gradually. Focus on Python and ML basics. Join the AI Engineers Program for a structured roadmap to kickstart your AI journey.",
+    "WHAT IS the cost of  AI Engineers Program?"
+  ],
+  "top_k_docs": [
+    ". She emphasizes that the learning path she followed in 2019-2020 is not the same as the path needed today because the field is constantly changing. Her experience includes conducting over 50 to 100 job interviews over four years.",
+    "TheAIEngineers 19",
+    ". My  classmates were on track to graduate, moving forward with their careers, while I was stuck,  unsure of my next move. The weight of uncertainty was unbearable. The feeling of watching  others progress while I remained in place was crushing. And then,  COVID-19 hit. Lockdowns were imposed, and t",
+    ". I landed my  first job as a Junior AI  Engineer . I had no AI degree, no official certifications\u2014just a  resume packed with  wow-worthy AI projects  that made recruiters  eager to hire me immediately . That experience taught me another  valuable lesson \u2014 \ud83d\udc68\u200d\ud83c\udfeb   I wished I had a mentor. I wished the",
+    "................................................................16  7. Conclusion & Next Steps...................................................................................................17  FAQ (Frequently Asked Questions).......................................................................",
+    ". It felt like I was lost at sea, trying to navigate an ocean with no map, no  compass, and no idea where the shore was. I spent countless nights jumping between YouTube tutorials, online courses, and blog posts,  desperately trying to piece together the knowledge I needed. One day, I was learning P",
+    ". \ud83c\udfaf   Click Here to Enroll Now!   \ud83d\ude80   TheAIEngineers 16",
+    ". But through  self-learning, hands-on projects, and  perseverance , I found my way into the field and landed my first AI job in just  six months \u2014with  no formal AI degree. Now, I\u2019ve made it my mission to  help others navigate this journey  faster and more efficiently  through  The AI Engineers Pro",
+    "My Journey into AI Engineering In 2019, I was studying  Electrical and Communications Engineering  at Lebanese University.  It felt like the right path at the time. But then, during my third year, life threw an unexpected  curveball that changed everything. Suddenly, I found myself questioning every",
+    "5.7 The Value of Community Learning within a community is highly beneficial. Discussing topics with others and learning from their questions and experiences helps keep everyone updated and supported. The program aims to build a community for this purpose.\nChapter 6: Learning Resources and Strategies",
+    "3.3 Deep Learning Fundamentals (Neural Networks) Deep Learning involves using neural networks, which are inspired by the structure of the human brain. Neural networks take input data, process it through layers with weights, and produce output data. The learning process involves updating these weight",
+    "2.3 Data Handling Libraries (Numpy, Pandas)\n\u2022\nNumpy: This library is crucial for working with numerical data, especially arrays and vectors, which are fundamental for representing images and other data in AI. Knowing how to create, manipulate, slice, and index Numpy arrays is a key skill.\n\u2022",
+    "2.5 Model Evaluation Metrics Understanding how to evaluate the performance of a model is critical. Key metrics include Accuracy, Precision, Recall, F1 Score, and the Confusion Matrix. These metrics help determine how well a model is performing, identify issues like overfitting or underfitting, and u",
+    ".  \u25cf\u200b  Industries are transforming , meaning AI skills are applicable in virtually any field.  \u25cf\u200b AI isn\u2019t just for researchers anymore\u2014 practical AI engineering skills  are what companies want today. \ud83d\udccc   Case Study: AI in Healthcare  AI-powered diagnostic tools are now capable of detecting  disease"
+  ],
+  "final_llm_output": "Lara: I am an AI engineer assistant. Feel free to ask anything related to the AI engineer program or AI roadmap, career path, or university plan.",
+  "token_usage": {
+    "total_tokens": 2201,
+    "prompt_tokens": 2168,
+    "completion_tokens": 33
+  }
+}
+
+{
+  "input": "what is your name",
+  "contextualized_query": "what is your name",
+  "similarity_score": 0.0,
+  "used_contextualized": false,
+  "chat_history": [],
+  "top_k_docs": [
+    "TheAIEngineers 19",
+    ". I landed my  first job as a Junior AI  Engineer . I had no AI degree, no official certifications\u2014just a  resume packed with  wow-worthy AI projects  that made recruiters  eager to hire me immediately . That experience taught me another  valuable lesson \u2014 \ud83d\udc68\u200d\ud83c\udfeb   I wished I had a mentor. I wished the",
+    "1.2 About the Speaker (Lara Wehbe) Lara Wehbe, the speaker, is a self-taught AI Engineer. She learned AI on her own around 2019-2020 during the COVID-19 pandemic, at a time when resources and clear paths for learning AI were not widely available, particularly in Lebanon. Before that, she studied Tel",
+    "The AI Engineer's Guide: Your Path to  Become THE AI ENGINEER! Hi, I'm Lara Wehbe \ud83d\udc4b  Welcome! I'm  Lara Wehbe , an  AI Engineer with 5+ years of experience . I\u2019m a  self-taught  AI enthusiast , passionate about building intelligent systems and helping others break into the  world of AI. I wasn\u2019t alw",
+    ". But in the middle of uncertainty, I made a  promise to myself:\u200b \ud83d\udca1   When this lockdown ends, I will ask myself one question\u2014how did I make the most of that  time? I knew I needed to find something meaningful, something that would give me purpose. And  that\u2019s when I set my sights on  AI Engineering",
+    ". My  classmates were on track to graduate, moving forward with their careers, while I was stuck,  unsure of my next move. The weight of uncertainty was unbearable. The feeling of watching  others progress while I remained in place was crushing. And then,  COVID-19 hit. Lockdowns were imposed, and t",
+    "1.4 Importance of a Structured Learning Path The speaker highlights that AI is a field where many people are self-taught. The program offers a structured roadmap to help individuals learn, consolidating resources that the speaker used and making them accessible. This structured approach is crucial b",
+    ". It felt like I was lost at sea, trying to navigate an ocean with no map, no  compass, and no idea where the shore was. I spent countless nights jumping between YouTube tutorials, online courses, and blog posts,  desperately trying to piece together the knowledge I needed. One day, I was learning P",
+    ". \ud83c\udfaf   Click Here to Enroll Now!   \ud83d\ude80   TheAIEngineers 16",
+    "TheAIEngineers 3",
+    ". \ud83d\udc49   Join now:   The AI Engineers Program \ud83d\udccc   Don\u2019t miss the explanatory video in the link above!  It will give you a full tour of what  you\u2019ll get inside the program and how you can kickstart your AI journey. The AI revolution is happening now\u2014 will you be part of it?   \ud83d\ude80",
+    "In summary, the key takeaway for timing your job search is to start applying once you are engaged in and developing competence in the Deep Learning part of your learning journey.",
+    "\u2022\nLearning how to put your AI models into production (deployment/MLOps) is also crucial for the job market, as many AI projects fail to reach this stage. This involves making your model accessible via APIs. Knowledge of cloud platforms like AWS SageMaker or Azure ML is beneficial for production.\n\u2022\nB",
+    "1.3 AI Engineering vs. Data Science The speaker notes that when applying for jobs advertised as AI Engineering positions, sometimes up to half the job involves data science tasks. This can be surprising as what people learn might differ from the job requirements. While data science is a great job an"
+  ],
+  "final_llm_output": "Lara: I'm Lara Wehbe, an AI Engineer with 5+ years of experience.",
+  "token_usage": {
+    "total_tokens": 2157,
+    "prompt_tokens": 2135,
+    "completion_tokens": 22
+  }
+}
+
+{
+  "input": "hala",
+  "contextualized_query": "hala",
+  "similarity_score": 0.0,
+  "used_contextualized": false,
+  "chat_history": [
+    "what is your name",
+    "Lara: I'm Lara Wehbe, an AI Engineer with 5+ years of experience."
+  ],
+  "top_k_docs": [
+    "5.7 The Value of Community Learning within a community is highly beneficial. Discussing topics with others and learning from their questions and experiences helps keep everyone updated and supported. The program aims to build a community for this purpose.\nChapter 6: Learning Resources and Strategies",
+    "................................................................16  7. Conclusion & Next Steps...................................................................................................17  FAQ (Frequently Asked Questions).......................................................................",
+    "Check the complete article  here TheAIEngineers 7",
+    "1.4 Importance of a Structured Learning Path The speaker highlights that AI is a field where many people are self-taught. The program offers a structured roadmap to help individuals learn, consolidating resources that the speaker used and making them accessible. This structured approach is crucial b",
+    ".  \u25cf\u200b  Hands-on Projects: \u25cb\u200b Build a  question-answering bot  using OpenAI APIs.  \u25cb\u200b Fine-tune a  domain-specific LLM  for medical or legal applications.  \u25cb\u200b Create an  AI-powered research assistant  for document summarization. Step 5: Deployment and MLOps Building models isn\u2019t enough\u2014 you need to d",
+    "1.1 Program Overview and Goals This program aims to help individuals, regardless of their location in the Arab world, learn how to find well-paying global jobs in AI companies. The program offers a comprehensive plan covering required skills. The goal is for participants to take the provided roadmap",
+    ". \u2705   Unlimited access  to our  private community . \u2705  The ability to  ask questions anytime  and receive expert guidance. \u2705  Continuous updates and support to keep you ahead in this fast-paced AI world. 6. I\u2019m in Lebanon. Why can\u2019t I pay in cash or via other local transfers? Inside the program, we ",
+    "TheAIEngineers 14\n\n 6. Lessons from Qatar GenAI Champions League",
+    ". Understanding the Attention mechanism, potentially including its underlying math, is important.",
+    ". It felt like I was lost at sea, trying to navigate an ocean with no map, no  compass, and no idea where the shore was. I spent countless nights jumping between YouTube tutorials, online courses, and blog posts,  desperately trying to piece together the knowledge I needed. One day, I was learning P",
+    "In summary, the key takeaway for timing your job search is to start applying once you are engaged in and developing competence in the Deep Learning part of your learning journey.",
+    "\u2022\nA background in Software Engineering is considered advantageous for an AI engineering role because you understand the software development lifecycle, code structuring, and production aspects.\n\u2022\nThe AI job market offers global opportunities, including remote work, making it possible to work for int",
+    "\u2022\nLearning how to put your AI models into production (deployment/MLOps) is also crucial for the job market, as many AI projects fail to reach this stage. This involves making your model accessible via APIs. Knowledge of cloud platforms like AWS SageMaker or Azure ML is beneficial for production.\n\u2022\nB",
+    "\u2022\nBeyond the basics, the speaker emphasizes the importance of specialization in areas like Natural Language Processing (NLP), Computer Vision, Time Series Analysis, or Recommender Systems, as companies often look for specialists. NLP, in particular, is mentioned as being in very high demand.\n\u2022"
+  ],
+  "final_llm_output": "Lara: I am an AI engineer assistant. Feel free to ask anything related to the AI engineer program or AI roadmap, career path, or university plan.",
+  "token_usage": {
+    "total_tokens": 1947,
+    "prompt_tokens": 1914,
+    "completion_tokens": 33
+  }
+}
+
+{
+  "input": "i need AI roadmap",
+  "contextualized_query": "i need AI roadmap",
+  "similarity_score": 0.0,
+  "used_contextualized": false,
+  "chat_history": [
+    "what is your name",
+    "Lara: I'm Lara Wehbe, an AI Engineer with 5+ years of experience.",
+    "hala"
+  ],
+  "top_k_docs": [
+    "5. Beyond the Basics: Mastering AI Specializations Once you\u2019ve built a strong foundation, it's time to specialize: Natural Language Processing (NLP) \u25cf\u200b Understanding how AI processes human language.  \u25cf\u200b Working with  Hugging Face, spaCy, and Transformer models .  \u25cf\u200b Real-world application:  Chatbots",
+    "Chapter 1: Introduction to the Program and AI Engineering",
+    "The AI Engineer's Guide: Your Path to Become THE AI ENGINEER!..................................... 3 What You'll Find in This Ebook................................................................................................ 4  Introduction.........................................................",
+    ". But in the middle of uncertainty, I made a  promise to myself:\u200b \ud83d\udca1   When this lockdown ends, I will ask myself one question\u2014how did I make the most of that  time? I knew I needed to find something meaningful, something that would give me purpose. And  that\u2019s when I set my sights on  AI Engineering",
+    "2. Roadmap to AI Success Becoming an AI engineer requires structured learning. Here\u2019s a  step-by-step guide  to  mastering AI:\n\n TheAIEngineers 9",
+    "1.4 Importance of a Structured Learning Path The speaker highlights that AI is a field where many people are self-taught. The program offers a structured roadmap to help individuals learn, consolidating resources that the speaker used and making them accessible. This structured approach is crucial b",
+    ".  Someone who had already walked this path. Enter: The AI Engineers Program That\u2019s exactly why I created  The AI Engineers Program . I built this program to give  aspiring AI engineers  what I never had: \u25cf\u200b A  clear roadmap  that eliminates confusion.  \u25cf\u200b A  community  that provides support and mot",
+    "Here's a bit more context from the source regarding the path to becoming an AI engineer and entering the job market:\n\u2022\nThe roadmap discussed in the video starts with foundational steps like deciding to learn AI, learning Python basics (including loops, conditional statements, data structures like li",
+    ". \ud83d\udc49   Join now:   The AI Engineers Program \ud83d\udccc   Don\u2019t miss the explanatory video in the link above!  It will give you a full tour of what  you\u2019ll get inside the program and how you can kickstart your AI journey. The AI revolution is happening now\u2014 will you be part of it?   \ud83d\ude80",
+    "1.1 Program Overview and Goals This program aims to help individuals, regardless of their location in the Arab world, learn how to find well-paying global jobs in AI companies. The program offers a comprehensive plan covering required skills. The goal is for participants to take the provided roadmap",
+    "2.1 Math Requirements for AI There is a debate about whether extensive math knowledge is necessary for AI. Some believe you cannot learn AI without knowing a lot of math, while others say you only need the required math. The speaker believes that you don't need to be very strong in math to find a jo",
+    "6.5 Dealing with Marketing Hype There is a lot of marketing hype around AI, with programs promising to make you an AI Engineer quickly. It's important to find reliable resources and a structured path rather than getting sidetracked by every new trend or tool. The program aims to provide a solid foun",
+    "Based on the source, you can start applying for AI jobs once you begin the Deep Learning section of the roadmap and feel you are starting to master it. The speaker suggests that a week, two, or three weeks after starting the Deep Learning course and feeling comfortable with the material is a good ti",
+    "What You'll Find in This Ebook This ebook is designed to give you a  clear roadmap to becoming an AI Engineer , whether  you\u2019re starting from scratch or looking to level up your skills. Inside, you\u2019ll discover: \u2705   Why AI Engineering is the career of the future \u2014and why now is the best time to get  "
+  ],
+  "final_llm_output": "Lara: The AI roadmap is a step-by-step guide to mastering AI, from programming basics to deep learning and beyond. It starts with foundational steps like deciding to learn AI, learning Python basics, and then moves on to more advanced topics.",
+  "token_usage": {
+    "total_tokens": 2369,
+    "prompt_tokens": 2319,
+    "completion_tokens": 50
+  }
+}
+
+{
+  "input": "python?",
+  "contextualized_query": "python?",
+  "similarity_score": 0.0,
+  "used_contextualized": false,
+  "chat_history": [
+    "what is your name",
+    "Lara: I'm Lara Wehbe, an AI Engineer with 5+ years of experience.",
+    "hala",
+    "i need AI roadmap",
+    "Lara: The AI roadmap is a step-by-step guide to mastering AI, from programming basics to deep learning and beyond. It starts with foundational steps like deciding to learn AI, learning Python basics, and then moves on to more advanced topics."
+  ],
+  "top_k_docs": [
+    "2.2 Programming Fundamentals (Python) Python is a fundamental skill required for AI.\n\u2022\nData Types, Loops, Functions: Basic programming concepts like data types, loops, and functions are essential. Loops, for instance, are crucial for iterating through data, especially with large datasets. There are ",
+    "\u2022\nCode Cleaning and Abstraction: Writing clean code and understanding abstraction (like writing functions to avoid repeating code) is important, especially when working with large codebases.\n\u2022\nCode Efficiency: Understanding which data structure or method to use for large datasets (e.g., Lists vs. Di",
+    ". The program emphasizes benefiting from resources that might not be taught extensively in schools or universities. It covers topics ranging from fundamental skills like Python and data handling to more advanced areas such as deep learning, NLP, and computer vision, as well as career aspects like mo",
+    "2.3 Data Handling Libraries (Numpy, Pandas)\n\u2022\nNumpy: This library is crucial for working with numerical data, especially arrays and vectors, which are fundamental for representing images and other data in AI. Knowing how to create, manipulate, slice, and index Numpy arrays is a key skill.\n\u2022",
+    ". It felt like I was lost at sea, trying to navigate an ocean with no map, no  compass, and no idea where the shore was. I spent countless nights jumping between YouTube tutorials, online courses, and blog posts,  desperately trying to piece together the knowledge I needed. One day, I was learning P",
+    "\u2022\nPandas: This library simplifies importing data from various formats (Excel, CSV, SQL, etc.) into DataFrames. DataFrames allow you to organize data like in a spreadsheet and perform operations on it easily. Pandas is user-friendly and important for data manipulation and cleaning.",
+    ". The program provides a general workflow that starts with deciding to learn, checking existing knowledge (like Python), and then progressing through stages like data analytics, machine learning, and deep learning.",
+    "Chapter 6: Learning Resources and Strategies\n6.1 Program's Roadmap and Structure The program provides a roadmap starting with fundamentals (Python, Data Analysis) and progressing to Machine Learning, Deep Learning, and Specializations (NLP, CV). Each month focuses on new topics. The learning materia",
+    "2.4 Visualization Libraries (Matplotlib, Seaborn) These libraries are used for data visualization, which helps in understanding data distribution and patterns. Visualizing data is a very important step in data analysis.",
+    "Step 1: Programming Basics \u25cf\u200b Python is the primary language for AI\u2014 start here.  \u25cf\u200b Learn  data structures, algorithms, and problem-solving .  \u25cf\u200b Hands-on exercises:  Write simple scripts, automate tasks, and work with datasets.  \u25cf\u200b Understand  object-oriented programming (OOP)  and  functional pro",
+    "In summary, the key takeaway for timing your job search is to start applying once you are engaged in and developing competence in the Deep Learning part of your learning journey.",
+    "\u2022\nA background in Software Engineering is considered advantageous for an AI engineering role because you understand the software development lifecycle, code structuring, and production aspects.\n\u2022\nThe AI job market offers global opportunities, including remote work, making it possible to work for int",
+    "\u2022\nLearning how to put your AI models into production (deployment/MLOps) is also crucial for the job market, as many AI projects fail to reach this stage. This involves making your model accessible via APIs. Knowledge of cloud platforms like AWS SageMaker or Azure ML is beneficial for production.\n\u2022\nB",
+    "\u2022\nBeyond the basics, the speaker emphasizes the importance of specialization in areas like Natural Language Processing (NLP), Computer Vision, Time Series Analysis, or Recommender Systems, as companies often look for specialists. NLP, in particular, is mentioned as being in very high demand.\n\u2022"
+  ],
+  "final_llm_output": "Lara: Python is a fundamental skill required for AI. You should start with programming basics like data types, loops, functions, code cleaning, and abstraction.",
+  "token_usage": {
+    "total_tokens": 2266,
+    "prompt_tokens": 2233,
+    "completion_tokens": 33
+  }
+}
+
+{
+  "input": "what is ai",
+  "contextualized_query": "what is ai",
+  "similarity_score": 0.0,
+  "used_contextualized": false,
+  "chat_history": [],
+  "top_k_docs": [
+    "5. Beyond the Basics: Mastering AI Specializations Once you\u2019ve built a strong foundation, it's time to specialize: Natural Language Processing (NLP) \u25cf\u200b Understanding how AI processes human language.  \u25cf\u200b Working with  Hugging Face, spaCy, and Transformer models .  \u25cf\u200b Real-world application:  Chatbots",
+    ". As businesses integrate AI to optimize operations, automate tasks, and enhance  decision-making, the need for skilled  AI professionals who can develop, deploy, and  maintain these systems  has never been higher. If you\u2019re considering a career in AI,  now is the perfect time to start . With struct",
+    "1.4 Importance of a Structured Learning Path The speaker highlights that AI is a field where many people are self-taught. The program offers a structured roadmap to help individuals learn, consolidating resources that the speaker used and making them accessible. This structured approach is crucial b",
+    ". Remember, there\u2019s a difference between \u201cAI Engineer\u201d and \u201cAI  Researcher\u201d. \ud83d\udca1   The AI Engineers program provides structured learning & community support to  guide you.              TheAIEngineers 12",
+    ". This program intends to clarify the difference between AI Engineering, Data Science, and Software Engineering.",
+    "Here's a bit more context from the source regarding the path to becoming an AI engineer and entering the job market:\n\u2022\nThe roadmap discussed in the video starts with foundational steps like deciding to learn AI, learning Python basics (including loops, conditional statements, data structures like li",
+    ".  \u25cf\u200b  Industries are transforming , meaning AI skills are applicable in virtually any field.  \u25cf\u200b AI isn\u2019t just for researchers anymore\u2014 practical AI engineering skills  are what companies want today. \ud83d\udccc   Case Study: AI in Healthcare  AI-powered diagnostic tools are now capable of detecting  disease",
+    "2.1 Math Requirements for AI There is a debate about whether extensive math knowledge is necessary for AI. Some believe you cannot learn AI without knowing a lot of math, while others say you only need the required math. The speaker believes that you don't need to be very strong in math to find a jo",
+    "The AI Engineer's Guide: Your Path to Become THE AI ENGINEER!..................................... 3 What You'll Find in This Ebook................................................................................................ 4  Introduction.........................................................",
+    "Chapter 1: Introduction to the Program and AI Engineering",
+    "1.3 AI Engineering vs. Data Science The speaker notes that when applying for jobs advertised as AI Engineering positions, sometimes up to half the job involves data science tasks. This can be surprising as what people learn might differ from the job requirements. While data science is a great job an",
+    ". For applying AI concepts or using existing libraries, basic math understanding (like knowing what a derivative is used for or understanding matrix multiplication for neural networks) is often sufficient. However, for those who want to invent new algorithms, deep dive into the underlying mechanisms",
+    ". \ud83d\udc49   Join now:   The AI Engineers Program \ud83d\udccc   Don\u2019t miss the explanatory video in the link above!  It will give you a full tour of what  you\u2019ll get inside the program and how you can kickstart your AI journey. The AI revolution is happening now\u2014 will you be part of it?   \ud83d\ude80",
+    ". It\u2019s a  complete AI  learning ecosystem , designed to  make you job-ready , not just teach theory.  What\u2019s Next? You\u2019ve now explored the roadmap to becoming an AI engineer, the essential skills required, and  the best ways to overcome challenges. But knowledge alone isn\u2019t enough\u2014 taking action is "
+  ],
+  "final_llm_output": "Lara: AI stands for Artificial Intelligence, which refers to the development of computer systems that can perform tasks that typically require human intelligence, such as understanding language, recognizing images, and making decisions.",
+  "token_usage": {
+    "total_tokens": 2145,
+    "prompt_tokens": 2105,
+    "completion_tokens": 40
+  }
+}
+
+{
+  "input": "what is your age",
+  "contextualized_query": "what is your age",
+  "similarity_score": 0.0,
+  "used_contextualized": false,
+  "chat_history": [
+    "what is ai"
+  ],
+  "top_k_docs": [
+    "TheAIEngineers 19",
+    ". \ud83c\udfaf   Click Here to Enroll Now!   \ud83d\ude80   TheAIEngineers 16",
+    "................................................................16  7. Conclusion & Next Steps...................................................................................................17  FAQ (Frequently Asked Questions).......................................................................",
+    ". She emphasizes that the learning path she followed in 2019-2020 is not the same as the path needed today because the field is constantly changing. Her experience includes conducting over 50 to 100 job interviews over four years.",
+    ". My  classmates were on track to graduate, moving forward with their careers, while I was stuck,  unsure of my next move. The weight of uncertainty was unbearable. The feeling of watching  others progress while I remained in place was crushing. And then,  COVID-19 hit. Lockdowns were imposed, and t",
+    ". It felt like I was lost at sea, trying to navigate an ocean with no map, no  compass, and no idea where the shore was. I spent countless nights jumping between YouTube tutorials, online courses, and blog posts,  desperately trying to piece together the knowledge I needed. One day, I was learning P",
+    ". I landed my  first job as a Junior AI  Engineer . I had no AI degree, no official certifications\u2014just a  resume packed with  wow-worthy AI projects  that made recruiters  eager to hire me immediately . That experience taught me another  valuable lesson \u2014 \ud83d\udc68\u200d\ud83c\udfeb   I wished I had a mentor. I wished the",
+    ". But in the middle of uncertainty, I made a  promise to myself:\u200b \ud83d\udca1   When this lockdown ends, I will ask myself one question\u2014how did I make the most of that  time? I knew I needed to find something meaningful, something that would give me purpose. And  that\u2019s when I set my sights on  AI Engineering",
+    "Chapter 2: Foundational Skills and Concepts",
+    "The AI Engineer's Guide: Your Path to  Become THE AI ENGINEER! Hi, I'm Lara Wehbe \ud83d\udc4b  Welcome! I'm  Lara Wehbe , an  AI Engineer with 5+ years of experience . I\u2019m a  self-taught  AI enthusiast , passionate about building intelligent systems and helping others break into the  world of AI. I wasn\u2019t alw",
+    ". \ud83d\udc49   Join now:   The AI Engineers Program \ud83d\udccc   Don\u2019t miss the explanatory video in the link above!  It will give you a full tour of what  you\u2019ll get inside the program and how you can kickstart your AI journey. The AI revolution is happening now\u2014 will you be part of it?   \ud83d\ude80",
+    "In summary, the key takeaway for timing your job search is to start applying once you are engaged in and developing competence in the Deep Learning part of your learning journey.",
+    "\u2022\nLearning how to put your AI models into production (deployment/MLOps) is also crucial for the job market, as many AI projects fail to reach this stage. This involves making your model accessible via APIs. Knowledge of cloud platforms like AWS SageMaker or Azure ML is beneficial for production.\n\u2022\nB",
+    "1.3 AI Engineering vs. Data Science The speaker notes that when applying for jobs advertised as AI Engineering positions, sometimes up to half the job involves data science tasks. This can be surprising as what people learn might differ from the job requirements. While data science is a great job an"
+  ],
+  "final_llm_output": "Lara: I am an AI engineer assistant. Feel free to ask anything related to the AI engineer program or AI roadmap, career path, or university plan.",
+  "token_usage": {
+    "total_tokens": 2069,
+    "prompt_tokens": 2036,
+    "completion_tokens": 33
+  }
+}
+
+{
+  "input": "are you married?",
+  "contextualized_query": "are you married?",
+  "similarity_score": 0.0,
+  "used_contextualized": false,
+  "chat_history": [
+    "what is ai",
+    "what is your age"
+  ],
+  "top_k_docs": [
+    ". She emphasizes that the learning path she followed in 2019-2020 is not the same as the path needed today because the field is constantly changing. Her experience includes conducting over 50 to 100 job interviews over four years.",
+    ". My  classmates were on track to graduate, moving forward with their careers, while I was stuck,  unsure of my next move. The weight of uncertainty was unbearable. The feeling of watching  others progress while I remained in place was crushing. And then,  COVID-19 hit. Lockdowns were imposed, and t",
+    "1.2 About the Speaker (Lara Wehbe) Lara Wehbe, the speaker, is a self-taught AI Engineer. She learned AI on her own around 2019-2020 during the COVID-19 pandemic, at a time when resources and clear paths for learning AI were not widely available, particularly in Lebanon. Before that, she studied Tel",
+    "My Journey into AI Engineering In 2019, I was studying  Electrical and Communications Engineering  at Lebanese University.  It felt like the right path at the time. But then, during my third year, life threw an unexpected  curveball that changed everything. Suddenly, I found myself questioning every",
+    "................................................................16  7. Conclusion & Next Steps...................................................................................................17  FAQ (Frequently Asked Questions).......................................................................",
+    "5.2 Interview Preparation (Mock Interviews) Interviewing is a skill that needs practice. The program will include mock interviews to help participants prepare for common questions asked for AI Engineer roles, which can sometimes be surprisingly basic and not typically covered in depth in traditional",
+    ". But through  self-learning, hands-on projects, and  perseverance , I found my way into the field and landed my first AI job in just  six months \u2014with  no formal AI degree. Now, I\u2019ve made it my mission to  help others navigate this journey  faster and more efficiently  through  The AI Engineers Pro",
+    ". I landed my  first job as a Junior AI  Engineer . I had no AI degree, no official certifications\u2014just a  resume packed with  wow-worthy AI projects  that made recruiters  eager to hire me immediately . That experience taught me another  valuable lesson \u2014 \ud83d\udc68\u200d\ud83c\udfeb   I wished I had a mentor. I wished the",
+    ". But in the middle of uncertainty, I made a  promise to myself:\u200b \ud83d\udca1   When this lockdown ends, I will ask myself one question\u2014how did I make the most of that  time? I knew I needed to find something meaningful, something that would give me purpose. And  that\u2019s when I set my sights on  AI Engineering",
+    "\u2022\nApplications: Generative AI is used for tasks like text generation, image generation, and potentially creating specialized models for specific domains (medical, political, economic, etc.).\n4.7 Foundation Models These are large models trained by major companies. They can be taken and fine-tuned for",
+    "Chapter 5: Career Development and the Job Market\n5.1 When to Start Applying for Jobs The speaker advises starting to apply for jobs once you begin the deep learning section of the course and feel you are gaining proficiency (e.g., after a few weeks). Applying allows you to gain hands-on experience w",
+    "In summary, the key takeaway for timing your job search is to start applying once you are engaged in and developing competence in the Deep Learning part of your learning journey.",
+    "Based on the source, you can start applying for AI jobs once you begin the Deep Learning section of the roadmap and feel you are starting to master it. The speaker suggests that a week, two, or three weeks after starting the Deep Learning course and feeling comfortable with the material is a good ti",
+    ".  \u25cf\u200b  Industries are transforming , meaning AI skills are applicable in virtually any field.  \u25cf\u200b AI isn\u2019t just for researchers anymore\u2014 practical AI engineering skills  are what companies want today. \ud83d\udccc   Case Study: AI in Healthcare  AI-powered diagnostic tools are now capable of detecting  disease"
+  ],
+  "final_llm_output": "Lara: I am an AI engineer assistant. Feel free to ask anything related to the AI engineer program or AI roadmap, career path, or university plan.",
+  "token_usage": {
+    "total_tokens": 2518,
+    "prompt_tokens": 2485,
+    "completion_tokens": 33
+  }
+}
+
+{
+  "input": "do i need math to start the ai engineer program?",
+  "contextualized_query": "do i need math to start the ai engineer program?",
+  "similarity_score": 0.0,
+  "used_contextualized": false,
+  "chat_history": [
+    "what is ai",
+    "what is your age",
+    "are you married?"
+  ],
+  "top_k_docs": [
+    ". That\u2019s why we only teach you  the essential  math required for AI jobs . We start from  scratch  and focus on  practical applications  to help  you understand concepts through  real-world projects . No unnecessary theories\u2014just what you  need to succeed. 3. I don\u2019t know programming. Can I still jo",
+    "2.1 Math Requirements for AI There is a debate about whether extensive math knowledge is necessary for AI. Some believe you cannot learn AI without knowing a lot of math, while others say you only need the required math. The speaker believes that you don't need to be very strong in math to find a jo",
+    ". For applying AI concepts or using existing libraries, basic math understanding (like knowing what a derivative is used for or understanding matrix multiplication for neural networks) is often sufficient. However, for those who want to invent new algorithms, deep dive into the underlying mechanisms",
+    "3. Common Challenges and How to Overcome Them Many beginners struggle with: \u25cf\u200b  \u201cAI is too complex\u201d  \u2192 Start with small projects & build gradually.  \u25cf\u200b  \u201cI don\u2019t have a technical background\u201d  \u2192 Many AI engineers start from scratch\u2014focus on Python & ML basics.  \u25cf\u200b  \u201cI don\u2019t know how to practice\u201d  \u2192  ",
+    ".  Someone who had already walked this path. Enter: The AI Engineers Program That\u2019s exactly why I created  The AI Engineers Program . I built this program to give  aspiring AI engineers  what I never had: \u25cf\u200b A  clear roadmap  that eliminates confusion.  \u25cf\u200b A  community  that provides support and mot",
+    "If you're ready to turn your AI dreams into reality,  join The AI Engineers Program today!   \ud83d\ude80   This program is designed to guide you step by step, offering:  \u2705  Structured courses tailored for  beginners and advanced learners.  \u2705  Hands-on projects that help you build a strong AI  portfolio.  \u2705  M",
+    ". Remember, there\u2019s a difference between \u201cAI Engineer\u201d and \u201cAI  Researcher\u201d. \ud83d\udca1   The AI Engineers program provides structured learning & community support to  guide you.              TheAIEngineers 12",
+    "7. Conclusion & Next Steps Becoming an AI engineer is one of the most  exciting and rewarding career paths  today. By  following the structured roadmap in this ebook, you now have a  clear path to success. \ud83d\udca1   Want to fast-track your AI journey? \ud83c\udfaf  Join  The AI Engineers Program  today and get: \u2705   ",
+    ". \ud83d\udc49   Join now:   The AI Engineers Program \ud83d\udccc   Don\u2019t miss the explanatory video in the link above!  It will give you a full tour of what  you\u2019ll get inside the program and how you can kickstart your AI journey. The AI revolution is happening now\u2014 will you be part of it?   \ud83d\ude80",
+    "Here's a bit more context from the source regarding the path to becoming an AI engineer and entering the job market:\n\u2022\nThe roadmap discussed in the video starts with foundational steps like deciding to learn AI, learning Python basics (including loops, conditional statements, data structures like li",
+    ". By the end of the  program, you\u2019ll be coding AI models with confidence. 4. How can I pay for the program? We accept  Visa, Mastercard, and any online shopping card . Payment is quick and secure. 5. What do I get if I register for the yearly plan? With the  yearly plan , you get: \u2705   Full access  t",
+    "Based on the source, you can start applying for AI jobs once you begin the Deep Learning section of the roadmap and feel you are starting to master it. The speaker suggests that a week, two, or three weeks after starting the Deep Learning course and feeling comfortable with the material is a good ti"
+  ],
+  "final_llm_output": "Lara: You don't need to be very strong in math to find a job in AI. We focus on practical applications and teach you the essential math required for AI jobs, starting from scratch.",
+  "token_usage": {
+    "total_tokens": 2475,
+    "prompt_tokens": 2434,
+    "completion_tokens": 41
+  }
+}
+
+{
+  "input": "what is ai?",
+  "contextualized_query": "what is ai?",
+  "similarity_score": 0.0,
+  "used_contextualized": false,
+  "chat_history": [],
+  "top_k_docs": [
+    "5. Beyond the Basics: Mastering AI Specializations Once you\u2019ve built a strong foundation, it's time to specialize: Natural Language Processing (NLP) \u25cf\u200b Understanding how AI processes human language.  \u25cf\u200b Working with  Hugging Face, spaCy, and Transformer models .  \u25cf\u200b Real-world application:  Chatbots",
+    ". Remember, there\u2019s a difference between \u201cAI Engineer\u201d and \u201cAI  Researcher\u201d. \ud83d\udca1   The AI Engineers program provides structured learning & community support to  guide you.              TheAIEngineers 12",
+    ". As businesses integrate AI to optimize operations, automate tasks, and enhance  decision-making, the need for skilled  AI professionals who can develop, deploy, and  maintain these systems  has never been higher. If you\u2019re considering a career in AI,  now is the perfect time to start . With struct",
+    ". This program intends to clarify the difference between AI Engineering, Data Science, and Software Engineering.",
+    "1.4 Importance of a Structured Learning Path The speaker highlights that AI is a field where many people are self-taught. The program offers a structured roadmap to help individuals learn, consolidating resources that the speaker used and making them accessible. This structured approach is crucial b",
+    "2.1 Math Requirements for AI There is a debate about whether extensive math knowledge is necessary for AI. Some believe you cannot learn AI without knowing a lot of math, while others say you only need the required math. The speaker believes that you don't need to be very strong in math to find a jo",
+    ".  \u25cf\u200b  Industries are transforming , meaning AI skills are applicable in virtually any field.  \u25cf\u200b AI isn\u2019t just for researchers anymore\u2014 practical AI engineering skills  are what companies want today. \ud83d\udccc   Case Study: AI in Healthcare  AI-powered diagnostic tools are now capable of detecting  disease",
+    "Here's a bit more context from the source regarding the path to becoming an AI engineer and entering the job market:\n\u2022\nThe roadmap discussed in the video starts with foundational steps like deciding to learn AI, learning Python basics (including loops, conditional statements, data structures like li",
+    "The AI Engineer's Guide: Your Path to Become THE AI ENGINEER!..................................... 3 What You'll Find in This Ebook................................................................................................ 4  Introduction.........................................................",
+    "Let\u2019s dive in!  \ud83d\ude80  1. Why AI Engineering is the Career of the Future AI is not just the future\u2014it\u2019s the present. Companies across industries, from  healthcare to  finance to marketing , are rapidly adopting AI to optimize processes, improve decision-making,  and create smarter solutions. Why Now is ",
+    "1.3 AI Engineering vs. Data Science The speaker notes that when applying for jobs advertised as AI Engineering positions, sometimes up to half the job involves data science tasks. This can be surprising as what people learn might differ from the job requirements. While data science is a great job an",
+    ". For applying AI concepts or using existing libraries, basic math understanding (like knowing what a derivative is used for or understanding matrix multiplication for neural networks) is often sufficient. However, for those who want to invent new algorithms, deep dive into the underlying mechanisms",
+    ". \ud83d\udc49   Join now:   The AI Engineers Program \ud83d\udccc   Don\u2019t miss the explanatory video in the link above!  It will give you a full tour of what  you\u2019ll get inside the program and how you can kickstart your AI journey. The AI revolution is happening now\u2014 will you be part of it?   \ud83d\ude80",
+    ". It\u2019s a  complete AI  learning ecosystem , designed to  make you job-ready , not just teach theory.  What\u2019s Next? You\u2019ve now explored the roadmap to becoming an AI engineer, the essential skills required, and  the best ways to overcome challenges. But knowledge alone isn\u2019t enough\u2014 taking action is "
+  ],
+  "final_llm_output": "Lara: AI, or Artificial Intelligence, refers to the development of computer systems that can perform tasks that typically require human intelligence, such as understanding language, recognizing images, and making decisions.",
+  "token_usage": {
+    "total_tokens": 2321,
+    "prompt_tokens": 2282,
+    "completion_tokens": 39
+  }
+}
+
+{
+  "input": "hwo much the cost of ai program?",
+  "contextualized_query": "hwo much the cost of ai program?",
+  "similarity_score": 0.0,
+  "used_contextualized": false,
+  "chat_history": [
+    "what is ai?",
+    "Lara: AI, or Artificial Intelligence, refers to the development of computer systems that can perform tasks that typically require human intelligence, such as understanding language, recognizing images, and making decisions."
+  ],
+  "top_k_docs": [
+    "Think of it this way:  If setting up a simple online payment method feels like too much  effort, this course might not be the right fit for you \u2014because learning AI requires  commitment, consistency, and effort . Lastly, due to the  high demand , we keep all payments  managed online for smoother ope",
+    ". By the end of the  program, you\u2019ll be coding AI models with confidence. 4. How can I pay for the program? We accept  Visa, Mastercard, and any online shopping card . Payment is quick and secure. 5. What do I get if I register for the yearly plan? With the  yearly plan , you get: \u2705   Full access  t",
+    "Chapter 1: Introduction to the Program and AI Engineering",
+    "1.1 Program Overview and Goals This program aims to help individuals, regardless of their location in the Arab world, learn how to find well-paying global jobs in AI companies. The program offers a comprehensive plan covering required skills. The goal is for participants to take the provided roadmap",
+    ". This program intends to clarify the difference between AI Engineering, Data Science, and Software Engineering.",
+    "Let\u2019s dive in!  \ud83d\ude80  1. Why AI Engineering is the Career of the Future AI is not just the future\u2014it\u2019s the present. Companies across industries, from  healthcare to  finance to marketing , are rapidly adopting AI to optimize processes, improve decision-making,  and create smarter solutions. Why Now is ",
+    "2.1 Math Requirements for AI There is a debate about whether extensive math knowledge is necessary for AI. Some believe you cannot learn AI without knowing a lot of math, while others say you only need the required math. The speaker believes that you don't need to be very strong in math to find a jo",
+    "The  Generative AI Jobs Market  is growing at an  astonishing CAGR of 18.9% , with a  projected market size of  $1,259.9M by 2033 . This rapid growth indicates a  booming demand  for AI engineers  across industries. The chart highlights key AI-driven job sectors such as  content creation, data analy",
+    ". But  here\u2019s the thing: \u274c  It\u2019s NOT a course.  \u2705  It\u2019s a  full AI program . For  $49/month , you get: \u25cf\u200b  Access to 12+ courses , not just one.  \u25cf\u200b  A supportive private community  where you can ask questions anytime.  \u25cf\u200b  Monthly live meetings  to stay up to date.  \u25cf\u200b  Recorded sessions of all pas",
+    ". \u2705   Practical AI Application  \u2013 Deploying models at scale in real-world use cases. \ud83d\udccc   These insights are now incorporated into The AI Engineers program!   \ud83d\ude80    TheAIEngineers 15",
+    ". For applying AI concepts or using existing libraries, basic math understanding (like knowing what a derivative is used for or understanding matrix multiplication for neural networks) is often sufficient. However, for those who want to invent new algorithms, deep dive into the underlying mechanisms",
+    "\ud83d\ude80   The same model that took 14 hours on my CPU finished training in just 5 minutes on  Google Colab. That was my  wake-up call . I realized that I had been learning in complete  isolation , wasting  so  much time  trying to figure things out alone when  the right guidance could have saved me  month"
+  ],
+  "final_llm_output": "Lara: The cost of the AI program is $49 per month.",
+  "token_usage": {
+    "total_tokens": 2192,
+    "prompt_tokens": 2176,
+    "completion_tokens": 16
+  }
+}
+
+{
+  "input": "too much?",
+  "contextualized_query": "too much?",
+  "similarity_score": 0.0,
+  "used_contextualized": false,
+  "chat_history": [
+    "what is ai?",
+    "Lara: AI, or Artificial Intelligence, refers to the development of computer systems that can perform tasks that typically require human intelligence, such as understanding language, recognizing images, and making decisions.",
+    "hwo much the cost of ai program?",
+    "Lara: The cost of the AI program is $49 per month."
+  ],
+  "top_k_docs": [
+    "FAQ (Frequently Asked Questions) 1. I'm not good at English, will I struggle in the course? No worries! The course is entirely  in Arabic , but we  keep the technical terminologies in  English  to ensure you learn AI the same way it\u2019s used in the industry. This makes it easier for  you to apply your",
+    "................................................................16  7. Conclusion & Next Steps...................................................................................................17  FAQ (Frequently Asked Questions).......................................................................",
+    ". But in the middle of uncertainty, I made a  promise to myself:\u200b \ud83d\udca1   When this lockdown ends, I will ask myself one question\u2014how did I make the most of that  time? I knew I needed to find something meaningful, something that would give me purpose. And  that\u2019s when I set my sights on  AI Engineering",
+    ". Understanding the Attention mechanism, potentially including its underlying math, is important.",
+    ". She emphasizes that the learning path she followed in 2019-2020 is not the same as the path needed today because the field is constantly changing. Her experience includes conducting over 50 to 100 job interviews over four years.",
+    "2.1 Math Requirements for AI There is a debate about whether extensive math knowledge is necessary for AI. Some believe you cannot learn AI without knowing a lot of math, while others say you only need the required math. The speaker believes that you don't need to be very strong in math to find a jo",
+    "\u2022\nBeyond the basics, the speaker emphasizes the importance of specialization in areas like Natural Language Processing (NLP), Computer Vision, Time Series Analysis, or Recommender Systems, as companies often look for specialists. NLP, in particular, is mentioned as being in very high demand.\n\u2022",
+    "1.4 Importance of a Structured Learning Path The speaker highlights that AI is a field where many people are self-taught. The program offers a structured roadmap to help individuals learn, consolidating resources that the speaker used and making them accessible. This structured approach is crucial b",
+    ". It felt like I was lost at sea, trying to navigate an ocean with no map, no  compass, and no idea where the shore was. I spent countless nights jumping between YouTube tutorials, online courses, and blog posts,  desperately trying to piece together the knowledge I needed. One day, I was learning P",
+    "5.7 The Value of Community Learning within a community is highly beneficial. Discussing topics with others and learning from their questions and experiences helps keep everyone updated and supported. The program aims to build a community for this purpose.\nChapter 6: Learning Resources and Strategies",
+    "6.4 Addressing Common Concerns (Being Behind, Overwhelm) Many people feel they are behind or that the field is too vast. The speaker advises against this feeling. Continuous learning is normal in AI, and no one knows everything. The structured program and community support are designed to mitigate t",
+    "Think of it this way:  If setting up a simple online payment method feels like too much  effort, this course might not be the right fit for you \u2014because learning AI requires  commitment, consistency, and effort . Lastly, due to the  high demand , we keep all payments  managed online for smoother ope",
+    "3. Common Challenges and How to Overcome Them Many beginners struggle with: \u25cf\u200b  \u201cAI is too complex\u201d  \u2192 Start with small projects & build gradually.  \u25cf\u200b  \u201cI don\u2019t have a technical background\u201d  \u2192 Many AI engineers start from scratch\u2014focus on Python & ML basics.  \u25cf\u200b  \u201cI don\u2019t know how to practice\u201d  \u2192  "
+  ],
+  "final_llm_output": "Lara: You're absolutely right\u2014 $49 per month might seem expensive for a single course. But here\u2019s the thing: It\u2019s NOT a course.",
+  "token_usage": {
+    "total_tokens": 2327,
+    "prompt_tokens": 2294,
+    "completion_tokens": 33
+  }
+}
+
+{
+  "input": "how many courses we have the program?",
+  "contextualized_query": "how many courses we have the program?",
+  "similarity_score": 0.0,
+  "used_contextualized": false,
+  "chat_history": [
+    "what is ai?",
+    "Lara: AI, or Artificial Intelligence, refers to the development of computer systems that can perform tasks that typically require human intelligence, such as understanding language, recognizing images, and making decisions.",
+    "hwo much the cost of ai program?",
+    "Lara: The cost of the AI program is $49 per month.",
+    "too much?"
+  ],
+  "top_k_docs": [
+    ". But  here\u2019s the thing: \u274c  It\u2019s NOT a course.  \u2705  It\u2019s a  full AI program . For  $49/month , you get: \u25cf\u200b  Access to 12+ courses , not just one.  \u25cf\u200b  A supportive private community  where you can ask questions anytime.  \u25cf\u200b  Monthly live meetings  to stay up to date.  \u25cf\u200b  Recorded sessions of all pas",
+    ". By the end of the  program, you\u2019ll be coding AI models with confidence. 4. How can I pay for the program? We accept  Visa, Mastercard, and any online shopping card . Payment is quick and secure. 5. What do I get if I register for the yearly plan? With the  yearly plan , you get: \u2705   Full access  t",
+    ". The program aims to teach the necessary math without going into excessive detail unless needed for specific advanced topics.",
+    ". The program emphasizes benefiting from resources that might not be taught extensively in schools or universities. It covers topics ranging from fundamental skills like Python and data handling to more advanced areas such as deep learning, NLP, and computer vision, as well as career aspects like mo",
+    "Chapter 6: Learning Resources and Strategies\n6.1 Program's Roadmap and Structure The program provides a roadmap starting with fundamentals (Python, Data Analysis) and progressing to Machine Learning, Deep Learning, and Specializations (NLP, CV). Each month focuses on new topics. The learning materia",
+    ". The program provides a general workflow that starts with deciding to learn, checking existing knowledge (like Python), and then progressing through stages like data analytics, machine learning, and deep learning.",
+    "1.1 Program Overview and Goals This program aims to help individuals, regardless of their location in the Arab world, learn how to find well-paying global jobs in AI companies. The program offers a comprehensive plan covering required skills. The goal is for participants to take the provided roadmap",
+    ". She emphasizes that the learning path she followed in 2019-2020 is not the same as the path needed today because the field is constantly changing. Her experience includes conducting over 50 to 100 job interviews over four years.",
+    "6.2 Recommended External Resources (Books, Courses) The speaker recommends external resources, including specific books like \"Mathematics for Machine Learning,\" which she found very helpful. Other courses and resources that influenced the program's structure are also mentioned as beneficial.\n6.3 Eff",
+    "Think of it this way:  If setting up a simple online payment method feels like too much  effort, this course might not be the right fit for you \u2014because learning AI requires  commitment, consistency, and effort . Lastly, due to the  high demand , we keep all payments  managed online for smoother ope",
+    "\u2022\nLearning how to put your AI models into production (deployment/MLOps) is also crucial for the job market, as many AI projects fail to reach this stage. This involves making your model accessible via APIs. Knowledge of cloud platforms like AWS SageMaker or Azure ML is beneficial for production.\n\u2022\nB",
+    ". For example, high precision but low recall suggests the model is good at identifying true positives but misses many actual positives."
+  ],
+  "final_llm_output": "Lara: You get access to 12+ courses in the AI program.",
+  "token_usage": {
+    "total_tokens": 2094,
+    "prompt_tokens": 2077,
+    "completion_tokens": 17
+  }
+}
+
+{
+  "input": "shoudl i know math in deep?",
+  "contextualized_query": "shoudl i know math in deep?",
+  "similarity_score": 0.0,
+  "used_contextualized": false,
+  "chat_history": [
+    "what is ai?",
+    "Lara: AI, or Artificial Intelligence, refers to the development of computer systems that can perform tasks that typically require human intelligence, such as understanding language, recognizing images, and making decisions.",
+    "hwo much the cost of ai program?",
+    "Lara: The cost of the AI program is $49 per month.",
+    "too much?",
+    "how many courses we have the program?",
+    "Lara: You get access to 12+ courses in the AI program."
+  ],
+  "top_k_docs": [
+    "2.1 Math Requirements for AI There is a debate about whether extensive math knowledge is necessary for AI. Some believe you cannot learn AI without knowing a lot of math, while others say you only need the required math. The speaker believes that you don't need to be very strong in math to find a jo",
+    ". That\u2019s why we only teach you  the essential  math required for AI jobs . We start from  scratch  and focus on  practical applications  to help  you understand concepts through  real-world projects . No unnecessary theories\u2014just what you  need to succeed. 3. I don\u2019t know programming. Can I still jo",
+    "FAQ (Frequently Asked Questions) 1. I'm not good at English, will I struggle in the course? No worries! The course is entirely  in Arabic , but we  keep the technical terminologies in  English  to ensure you learn AI the same way it\u2019s used in the industry. This makes it easier for  you to apply your",
+    "3. Common Challenges and How to Overcome Them Many beginners struggle with: \u25cf\u200b  \u201cAI is too complex\u201d  \u2192 Start with small projects & build gradually.  \u25cf\u200b  \u201cI don\u2019t have a technical background\u201d  \u2192 Many AI engineers start from scratch\u2014focus on Python & ML basics.  \u25cf\u200b  \u201cI don\u2019t know how to practice\u201d  \u2192  ",
+    ". Understanding the Attention mechanism, potentially including its underlying math, is important.",
+    ". For applying AI concepts or using existing libraries, basic math understanding (like knowing what a derivative is used for or understanding matrix multiplication for neural networks) is often sufficient. However, for those who want to invent new algorithms, deep dive into the underlying mechanisms",
+    ". The program aims to teach the necessary math without going into excessive detail unless needed for specific advanced topics.",
+    "6.2 Recommended External Resources (Books, Courses) The speaker recommends external resources, including specific books like \"Mathematics for Machine Learning,\" which she found very helpful. Other courses and resources that influenced the program's structure are also mentioned as beneficial.\n6.3 Eff",
+    "Chapter 3: Machine Learning and Deep Learning",
+    ". It felt like I was lost at sea, trying to navigate an ocean with no map, no  compass, and no idea where the shore was. I spent countless nights jumping between YouTube tutorials, online courses, and blog posts,  desperately trying to piece together the knowledge I needed. One day, I was learning P"
+  ],
+  "final_llm_output": "Lara: No, you don't need to be very strong in math to find a job in AI. We only teach the essential math required for AI jobs, focusing on practical applications through real-world projects.",
+  "token_usage": {
+    "total_tokens": 1823,
+    "prompt_tokens": 1780,
+    "completion_tokens": 43
+  }
+}
+
+{
+  "input": "when i can enter the market job as ai dev?",
+  "contextualized_query": "when i can enter the market job as ai dev?",
+  "similarity_score": 0.0,
+  "used_contextualized": false,
+  "chat_history": [
+    "what is ai?",
+    "Lara: AI, or Artificial Intelligence, refers to the development of computer systems that can perform tasks that typically require human intelligence, such as understanding language, recognizing images, and making decisions.",
+    "hwo much the cost of ai program?",
+    "Lara: The cost of the AI program is $49 per month.",
+    "too much?",
+    "how many courses we have the program?",
+    "Lara: You get access to 12+ courses in the AI program."
+  ],
+  "top_k_docs": [
+    "6.5 Dealing with Marketing Hype There is a lot of marketing hype around AI, with programs promising to make you an AI Engineer quickly. It's important to find reliable resources and a structured path rather than getting sidetracked by every new trend or tool. The program aims to provide a solid foun",
+    "The  Generative AI Jobs Market  is growing at an  astonishing CAGR of 18.9% , with a  projected market size of  $1,259.9M by 2033 . This rapid growth indicates a  booming demand  for AI engineers  across industries. The chart highlights key AI-driven job sectors such as  content creation, data analy",
+    "\u2022\nA background in Software Engineering is considered advantageous for an AI engineering role because you understand the software development lifecycle, code structuring, and production aspects.\n\u2022\nThe AI job market offers global opportunities, including remote work, making it possible to work for int",
+    "Here's a bit more context from the source regarding the path to becoming an AI engineer and entering the job market:\n\u2022\nThe roadmap discussed in the video starts with foundational steps like deciding to learn AI, learning Python basics (including loops, conditional statements, data structures like li",
+    ". As businesses integrate AI to optimize operations, automate tasks, and enhance  decision-making, the need for skilled  AI professionals who can develop, deploy, and  maintain these systems  has never been higher. If you\u2019re considering a career in AI,  now is the perfect time to start . With struct",
+    ". Companies value experienced software engineers transitioning into AI roles.",
+    "Let\u2019s dive in!  \ud83d\ude80  1. Why AI Engineering is the Career of the Future AI is not just the future\u2014it\u2019s the present. Companies across industries, from  healthcare to  finance to marketing , are rapidly adopting AI to optimize processes, improve decision-making,  and create smarter solutions. Why Now is ",
+    "5.3 Job Opportunities (Local and Global) Learning AI opens up opportunities for both local and global jobs. The market is not limited to specific locations. Companies in places like the US, Canada, and Dubai are hiring remotely from locations like Lebanon.",
+    "\u2022\nLearning how to put your AI models into production (deployment/MLOps) is also crucial for the job market, as many AI projects fail to reach this stage. This involves making your model accessible via APIs. Knowledge of cloud platforms like AWS SageMaker or Azure ML is beneficial for production.\n\u2022\nB",
+    ". But through  self-learning, hands-on projects, and  perseverance , I found my way into the field and landed my first AI job in just  six months \u2014with  no formal AI degree. Now, I\u2019ve made it my mission to  help others navigate this journey  faster and more efficiently  through  The AI Engineers Pro",
+    "1.3 AI Engineering vs. Data Science The speaker notes that when applying for jobs advertised as AI Engineering positions, sometimes up to half the job involves data science tasks. This can be surprising as what people learn might differ from the job requirements. While data science is a great job an"
+  ],
+  "final_llm_output": "Lara: With structured learning and hands-on experience, you can position yourself at the forefront of the AI revolution and take advantage of the vast opportunities ahead. Now is the perfect time to start, and you can enter the job market as an AI dev in as little as 6 months.",
+  "token_usage": {
+    "total_tokens": 1999,
+    "prompt_tokens": 1940,
+    "completion_tokens": 59
+  }
+}
+
+{
+  "input": "are u married?",
+  "contextualized_query": "are u married?",
+  "similarity_score": 0.0,
+  "used_contextualized": false,
+  "chat_history": [
+    "hwo much the cost of ai program?",
+    "Lara: The cost of the AI program is $49 per month.",
+    "too much?",
+    "how many courses we have the program?",
+    "Lara: You get access to 12+ courses in the AI program.",
+    "when i can enter the market job as ai dev?"
+  ],
+  "top_k_docs": [
+    "................................................................16  7. Conclusion & Next Steps...................................................................................................17  FAQ (Frequently Asked Questions).......................................................................",
+    "1.2 About the Speaker (Lara Wehbe) Lara Wehbe, the speaker, is a self-taught AI Engineer. She learned AI on her own around 2019-2020 during the COVID-19 pandemic, at a time when resources and clear paths for learning AI were not widely available, particularly in Lebanon. Before that, she studied Tel",
+    "TheAIEngineers 19",
+    ". She emphasizes that the learning path she followed in 2019-2020 is not the same as the path needed today because the field is constantly changing. Her experience includes conducting over 50 to 100 job interviews over four years.",
+    "My Journey into AI Engineering In 2019, I was studying  Electrical and Communications Engineering  at Lebanese University.  It felt like the right path at the time. But then, during my third year, life threw an unexpected  curveball that changed everything. Suddenly, I found myself questioning every",
+    "Check the complete article  here TheAIEngineers 7",
+    ". My  classmates were on track to graduate, moving forward with their careers, while I was stuck,  unsure of my next move. The weight of uncertainty was unbearable. The feeling of watching  others progress while I remained in place was crushing. And then,  COVID-19 hit. Lockdowns were imposed, and t",
+    "5.2 Interview Preparation (Mock Interviews) Interviewing is a skill that needs practice. The program will include mock interviews to help participants prepare for common questions asked for AI Engineer roles, which can sometimes be surprisingly basic and not typically covered in depth in traditional",
+    ". \u2705   Unlimited access  to our  private community . \u2705  The ability to  ask questions anytime  and receive expert guidance. \u2705  Continuous updates and support to keep you ahead in this fast-paced AI world. 6. I\u2019m in Lebanon. Why can\u2019t I pay in cash or via other local transfers? Inside the program, we ",
+    ".  \u25cf\u200b Implement  model monitoring and automation  with  MLflow  and  CI/CD pipelines . \ud83d\udccc   Hands-on Exercises: \u25cf\u200b Deploy an AI model using  Flask & FastAPI .  \u25cf\u200b Automate training pipelines using  Airflow .  \u25cf\u200b Optimize model performance and scale AI applications.         TheAIEngineers 11",
+    ".  \u25cf\u200b  Industries are transforming , meaning AI skills are applicable in virtually any field.  \u25cf\u200b AI isn\u2019t just for researchers anymore\u2014 practical AI engineering skills  are what companies want today. \ud83d\udccc   Case Study: AI in Healthcare  AI-powered diagnostic tools are now capable of detecting  disease",
+    "2.2 Programming Fundamentals (Python) Python is a fundamental skill required for AI.\n\u2022\nData Types, Loops, Functions: Basic programming concepts like data types, loops, and functions are essential. Loops, for instance, are crucial for iterating through data, especially with large datasets. There are ",
+    "Recently, I attended an exclusive  two-day intensive GenAI training in Qatar , where I gained  insights that typically take years to learn. Here are some takeaways: \u2705   LLMs aren\u2019t just chatbots  \u2013 They are  tools for automation, research, and innovation. \u2705   Fine-tuning vs. Prompt Engineering  \u2013 Wh",
+    "3.4 Deep Learning Frameworks (TensorFlow, PyTorch) TensorFlow and PyTorch are major frameworks for building and training deep learning models. Learning one of these is essential for deep learning. While their syntax differs, the underlying principles are similar, so learning one makes it easier to p"
+  ],
+  "final_llm_output": "Lara: I am an AI engineer assistant. Feel free to ask anything related to the AI engineer program or AI roadmap, career path, or university plan.",
+  "token_usage": {
+    "total_tokens": 2369,
+    "prompt_tokens": 2336,
+    "completion_tokens": 33
+  }
+}
+
+{
+  "input": "what is deep learning?",
+  "contextualized_query": "what is deep learning?",
+  "similarity_score": 0.0,
+  "used_contextualized": false,
+  "chat_history": [],
+  "top_k_docs": [
+    "3.4 Deep Learning Frameworks (TensorFlow, PyTorch) TensorFlow and PyTorch are major frameworks for building and training deep learning models. Learning one of these is essential for deep learning. While their syntax differs, the underlying principles are similar, so learning one makes it easier to p",
+    "\u2022\nThe Deep Learning section is highlighted as a crucial point for job applications. This part of the roadmap includes learning about neural networks, CNNs (for computer vision), RNNs/LSTMs (for sequential data like text), Transformers, and generative models.\n\u2022",
+    "3.3 Deep Learning Fundamentals (Neural Networks) Deep Learning involves using neural networks, which are inspired by the structure of the human brain. Neural networks take input data, process it through layers with weights, and produce output data. The learning process involves updating these weight",
+    "Chapter 3: Machine Learning and Deep Learning",
+    "5. Beyond the Basics: Mastering AI Specializations Once you\u2019ve built a strong foundation, it's time to specialize: Natural Language Processing (NLP) \u25cf\u200b Understanding how AI processes human language.  \u25cf\u200b Working with  Hugging Face, spaCy, and Transformer models .  \u25cf\u200b Real-world application:  Chatbots",
+    "Advanced NLP: More advanced topics include Recurrent Neural Networks (RNNs) and Long Short-Term Memory networks (LSTMs), used for sequential data like text. However, these have limitations, such as forgetting earlier parts of long texts (the \"Downfall\" of RNNs). This led to the development of the Tr",
+    ". The program provides a general workflow that starts with deciding to learn, checking existing knowledge (like Python), and then progressing through stages like data analytics, machine learning, and deep learning.",
+    "1.4 Importance of a Structured Learning Path The speaker highlights that AI is a field where many people are self-taught. The program offers a structured roadmap to help individuals learn, consolidating resources that the speaker used and making them accessible. This structured approach is crucial b",
+    ". The program emphasizes benefiting from resources that might not be taught extensively in schools or universities. It covers topics ranging from fundamental skills like Python and data handling to more advanced areas such as deep learning, NLP, and computer vision, as well as career aspects like mo",
+    "In summary, the key takeaway for timing your job search is to start applying once you are engaged in and developing competence in the Deep Learning part of your learning journey.",
+    ". For applying AI concepts or using existing libraries, basic math understanding (like knowing what a derivative is used for or understanding matrix multiplication for neural networks) is often sufficient. However, for those who want to invent new algorithms, deep dive into the underlying mechanisms",
+    "4.4 Time Series Analysis This area focuses on analyzing data points collected over time, such as weather forecasting, stock prices, or economic indicators. While important, the program will focus more on deep learning first.\n4.5 Recommender Systems These systems predict what a user might like, based",
+    "1.3 AI Engineering vs. Data Science The speaker notes that when applying for jobs advertised as AI Engineering positions, sometimes up to half the job involves data science tasks. This can be surprising as what people learn might differ from the job requirements. While data science is a great job an"
+  ],
+  "final_llm_output": "Lara: Deep Learning involves using neural networks, which are inspired by the structure of the human brain. Neural networks take input data, process it through layers with weights, and produce output data. The learning process involves updating these weights based on how well the model performs, allowing it to improve.",
+  "token_usage": {
+    "total_tokens": 2021,
+    "prompt_tokens": 1961,
+    "completion_tokens": 60
+  }
+}
+
+{
+  "input": "weights?",
+  "contextualized_query": "weights?",
+  "similarity_score": 0.0,
+  "used_contextualized": false,
+  "chat_history": [
+    "what is deep learning?"
+  ],
+  "top_k_docs": [
+    "\u2022\nBeyond the basics, the speaker emphasizes the importance of specialization in areas like Natural Language Processing (NLP), Computer Vision, Time Series Analysis, or Recommender Systems, as companies often look for specialists. NLP, in particular, is mentioned as being in very high demand.\n\u2022",
+    ". Understanding the Attention mechanism, potentially including its underlying math, is important.",
+    "Chapter 3: Machine Learning and Deep Learning",
+    "Chapter 1: Introduction to the Program and AI Engineering",
+    "3.3 Deep Learning Fundamentals (Neural Networks) Deep Learning involves using neural networks, which are inspired by the structure of the human brain. Neural networks take input data, process it through layers with weights, and produce output data. The learning process involves updating these weight",
+    "2.1 Math Requirements for AI There is a debate about whether extensive math knowledge is necessary for AI. Some believe you cannot learn AI without knowing a lot of math, while others say you only need the required math. The speaker believes that you don't need to be very strong in math to find a jo",
+    "1.4 Importance of a Structured Learning Path The speaker highlights that AI is a field where many people are self-taught. The program offers a structured roadmap to help individuals learn, consolidating resources that the speaker used and making them accessible. This structured approach is crucial b",
+    ". The program aims to teach the necessary math without going into excessive detail unless needed for specific advanced topics.",
+    "..............................................8  2. Roadmap to AI Success.................................................................................................... 10  4. What Sets Successful AI Engineers Apart?.......................................................................14  5. B",
+    "5. Beyond the Basics: Mastering AI Specializations Once you\u2019ve built a strong foundation, it's time to specialize: Natural Language Processing (NLP) \u25cf\u200b Understanding how AI processes human language.  \u25cf\u200b Working with  Hugging Face, spaCy, and Transformer models .  \u25cf\u200b Real-world application:  Chatbots",
+    "In summary, the key takeaway for timing your job search is to start applying once you are engaged in and developing competence in the Deep Learning part of your learning journey.",
+    "\u2022\nA background in Software Engineering is considered advantageous for an AI engineering role because you understand the software development lifecycle, code structuring, and production aspects.\n\u2022\nThe AI job market offers global opportunities, including remote work, making it possible to work for int",
+    "\u2022\nLearning how to put your AI models into production (deployment/MLOps) is also crucial for the job market, as many AI projects fail to reach this stage. This involves making your model accessible via APIs. Knowledge of cloud platforms like AWS SageMaker or Azure ML is beneficial for production.\n\u2022\nB"
+  ],
+  "final_llm_output": "Lara: In Deep Learning, weights refer to the parameters within neural networks that are updated during the learning process to improve the model's performance.",
+  "token_usage": {
+    "total_tokens": 1579,
+    "prompt_tokens": 1549,
+    "completion_tokens": 30
+  }
+}
+
+{
+  "input": "i need a roadmap for python",
+  "contextualized_query": "i need a roadmap for python",
+  "similarity_score": 0.0,
+  "used_contextualized": false,
+  "chat_history": [],
+  "top_k_docs": [
+    "\u2022\nCode Cleaning and Abstraction: Writing clean code and understanding abstraction (like writing functions to avoid repeating code) is important, especially when working with large codebases.\n\u2022\nCode Efficiency: Understanding which data structure or method to use for large datasets (e.g., Lists vs. Di",
+    "2.2 Programming Fundamentals (Python) Python is a fundamental skill required for AI.\n\u2022\nData Types, Loops, Functions: Basic programming concepts like data types, loops, and functions are essential. Loops, for instance, are crucial for iterating through data, especially with large datasets. There are ",
+    ". The program emphasizes benefiting from resources that might not be taught extensively in schools or universities. It covers topics ranging from fundamental skills like Python and data handling to more advanced areas such as deep learning, NLP, and computer vision, as well as career aspects like mo",
+    ". The program provides a general workflow that starts with deciding to learn, checking existing knowledge (like Python), and then progressing through stages like data analytics, machine learning, and deep learning.",
+    "Chapter 6: Learning Resources and Strategies\n6.1 Program's Roadmap and Structure The program provides a roadmap starting with fundamentals (Python, Data Analysis) and progressing to Machine Learning, Deep Learning, and Specializations (NLP, CV). Each month focuses on new topics. The learning materia",
+    "2.3 Data Handling Libraries (Numpy, Pandas)\n\u2022\nNumpy: This library is crucial for working with numerical data, especially arrays and vectors, which are fundamental for representing images and other data in AI. Knowing how to create, manipulate, slice, and index Numpy arrays is a key skill.\n\u2022",
+    "Step 1: Programming Basics \u25cf\u200b Python is the primary language for AI\u2014 start here.  \u25cf\u200b Learn  data structures, algorithms, and problem-solving .  \u25cf\u200b Hands-on exercises:  Write simple scripts, automate tasks, and work with datasets.  \u25cf\u200b Understand  object-oriented programming (OOP)  and  functional pro",
+    "\u2022\nPandas: This library simplifies importing data from various formats (Excel, CSV, SQL, etc.) into DataFrames. DataFrames allow you to organize data like in a spreadsheet and perform operations on it easily. Pandas is user-friendly and important for data manipulation and cleaning.",
+    "2.4 Visualization Libraries (Matplotlib, Seaborn) These libraries are used for data visualization, which helps in understanding data distribution and patterns. Visualizing data is a very important step in data analysis.",
+    "Here's a bit more context from the source regarding the path to becoming an AI engineer and entering the job market:\n\u2022\nThe roadmap discussed in the video starts with foundational steps like deciding to learn AI, learning Python basics (including loops, conditional statements, data structures like li",
+    "6.5 Dealing with Marketing Hype There is a lot of marketing hype around AI, with programs promising to make you an AI Engineer quickly. It's important to find reliable resources and a structured path rather than getting sidetracked by every new trend or tool. The program aims to provide a solid foun",
+    "2.1 Math Requirements for AI There is a debate about whether extensive math knowledge is necessary for AI. Some believe you cannot learn AI without knowing a lot of math, while others say you only need the required math. The speaker believes that you don't need to be very strong in math to find a jo",
+    "Based on the source, you can start applying for AI jobs once you begin the Deep Learning section of the roadmap and feel you are starting to master it. The speaker suggests that a week, two, or three weeks after starting the Deep Learning course and feeling comfortable with the material is a good ti",
+    ".  \u25cf\u200b  Hands-on Projects: \u25cb\u200b Build a  question-answering bot  using OpenAI APIs.  \u25cb\u200b Fine-tune a  domain-specific LLM  for medical or legal applications.  \u25cb\u200b Create an  AI-powered research assistant  for document summarization. Step 5: Deployment and MLOps Building models isn\u2019t enough\u2014 you need to d"
+  ],
+  "final_llm_output": "Lara: For a Python roadmap, follow these steps: Step 1: Programming Basics - Learn data structures, algorithms, and problem-solving. Hands-on exercises: Write simple scripts, automate tasks, and work with datasets. Understand object-oriented programming (OOP) and functional programming.",
+  "token_usage": {
+    "total_tokens": 2385,
+    "prompt_tokens": 2327,
+    "completion_tokens": 58
+  }
+}
+

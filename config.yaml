@@ -1,0 +1,35 @@
+#path of your raw pdf,docsdata
+data_directory: "./data/laracourses/googlellmnotes"
+index_name: "ai-roadmap-notes"
+pinecone_region: "us-east-1"
+embedding_model_name: "sentence-transformers/all-MiniLM-L6-v2"
+# to link the chunks with each others we put in the metadata of each chunk summary of the previous one
+use_summary_contextual_rag: False 
+# to link the chunks with each others we put in the metadata of each chunk most keywords used of the previous one
+use_keyword_in_meta_data: True 
+use_lexic_retrieval: False #in case you need to cmbine your normal retrieve by similarity  with lexiq BM25Retriever for more precesion
+# set as as true in case each time  you need to process and chunking data 
+re_process_data: False
+
+
+#  Set `use_query_contextuale = True;when:llm is weak, extra accuracy for sensative data(mdedical as example)
+use_query_contextuale: False  # Still enough in most cases with powerful models like GPT-4 or LLaMA 3...
+
+
+
+vectorstore:
+  provider: "pinecone"       # Options: "pinecone", "chroma", "faiss"
+  dimension: 384
+  metric: "cosine"
+  index_name: "ai-roadmap-notes"
+  pinecone:
+    api_key:  ${PINECONE_API_KEY}
+    region: "us-east-1"
+    cloud: "aws"
+  chroma:
+    persist_directory: "chroma_index"
+  faiss:
+    persist_path: "faiss_index"
+
+
+
