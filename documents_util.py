@@ -27,7 +27,7 @@ import time
 
 llm = ChatOpenAI(
     model="meta-llama/Llama-3.3-70B-Instruct-Turbo-Free",
-    openai_api_key="3cb355f55e216f29e73a674fe2d35f17438c0808eac11a726b6b364714f5871a",
+    openai_api_key="",
     openai_api_base="https://api.together.xyz/v1",
     temperature=0.5
 )
