@@ -40,6 +40,8 @@ Edit the `.env` file and add your required API keys and variables:
 ```env
 OPENAI_API_KEY=your_openai_api_key
 PINECONE_API_KEY=your_pinecone_api_key
+LANGCHAIN_API_KEY=
+GROK_API_KEY
 ```
 
 ### **3. Configure Project Settings**
